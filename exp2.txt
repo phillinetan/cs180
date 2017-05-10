@@ -1,557 +1,557 @@
 setting up database
 extracting data from training set
 entropy of  TL
-entropy 0.93118290931
+entropy 0.937002245784
 entropy of  TL -> x
-entropy 0.873089548843
+entropy 0.884199108455
 entropy of  TL -> o
-entropy 0.988530923465
+entropy 0.992228333128
 entropy of  TL -> b
-entropy 0.889384398147
-gain of  TL 0.0139926673968
+entropy 0.882039540879
+gain of  TL 0.0152335400054
 entropy of  TM
-entropy 0.93118290931
+entropy 0.937002245784
 entropy of  TM -> x
-entropy 0.97431972111
+entropy 0.979466218702
 entropy of  TM -> o
-entropy 0.884963636383
+entropy 0.89818056495
 entropy of  TM -> b
-entropy 0.898861037044
-gain of  TM 0.00729570864457
+entropy 0.893173458378
+gain of  TM 0.00801577239503
 entropy of  TR
-entropy 0.93118290931
+entropy 0.937002245784
 entropy of  TR -> x
-entropy 0.873539697932
+entropy 0.869753944889
 entropy of  TR -> o
-entropy 0.99010602
+entropy 0.993570475771
 entropy of  TR -> b
-entropy 0.884963636383
-gain of  TR 0.014911757411
+entropy 0.905694727202
+gain of  TR 0.016737727537
 entropy of  ML
-entropy 0.93118290931
+entropy 0.937002245784
 entropy of  ML -> x
-entropy 0.97431972111
+entropy 0.976100166251
 entropy of  ML -> o
 entropy 0.889466389663
 entropy of  ML -> b
-entropy 0.893173458378
-gain of  ML 0.00722894054476
+entropy 0.91492637278
+gain of  ML 0.00667271279659
 entropy of  MM
-entropy 0.93118290931
+entropy 0.937002245784
 entropy of  MM -> o
-entropy 0.987692508896
+entropy 0.989025418634
 entropy of  MM -> b
-entropy 0.886125647465
+entropy 0.904381457724
 entropy of  MM -> x
-entropy 0.715322052804
-gain of  MM 0.0900137962531
+entropy 0.736967250508
+gain of  MM 0.0820495581114
 entropy of  MR
-entropy 0.93118290931
+entropy 0.937002245784
 entropy of  MR -> o
-entropy 0.903178648919
+entropy 0.919602583215
 entropy of  MR -> b
-entropy 0.876491810467
+entropy 0.882474452175
 entropy of  MR -> x
 entropy 0.973191220308
-gain of  MR 0.00714849677233
+gain of  MR 0.00592206596671
 entropy of  BL
-entropy 0.93118290931
+entropy 0.937002245784
 entropy of  BL -> x
-entropy 0.870537015094
+entropy 0.885744068333
 entropy of  BL -> b
-entropy 0.884963636383
+entropy 0.905694727202
 entropy of  BL -> o
-entropy 0.989025418634
-gain of  BL 0.0149050964454
+entropy 0.986282531381
+gain of  BL 0.0107881976403
 entropy of  BM
-entropy 0.93118290931
+entropy 0.937002245784
 entropy of  BM -> o
 entropy 0.8672816222
 entropy of  BM -> b
-entropy 0.911342375976
+entropy 0.926565498655
 entropy of  BM -> x
-entropy 0.977518265289
-gain of  BM 0.00938089948286
+entropy 0.980798364694
+gain of  BM 0.0100228670308
 entropy of  BR
-entropy 0.93118290931
+entropy 0.937002245784
 entropy of  BR -> o
 entropy 0.987186779545
 entropy of  BR -> b
 entropy 0.892121280577
 entropy of  BR -> x
-entropy 0.878752119699
-gain of  BR 0.0123731271801
+entropy 0.896247835148
+gain of  BR 0.0104596767737
 ------------computed gain---------------
-MM 0.0900137962531
-TR 0.014911757411
-BL 0.0149050964454
-TL 0.0139926673968
-BR 0.0123731271801
-BM 0.00938089948286
-TM 0.00729570864457
-ML 0.00722894054476
-MR 0.00714849677233
+MM 0.0820495581114
+TR 0.016737727537
+TL 0.0152335400054
+BL 0.0107881976403
+BR 0.0104596767737
+BM 0.0100228670308
+TM 0.00801577239503
+ML 0.00667271279659
+MR 0.00592206596671
 best attribute: MM
 ----------------------------------------
 ------------------------------------
 entropy of  MM -> o
-entropy 0.987692508896
+entropy 0.989025418634
 entropy of  TR
-entropy 0.987692508896
+entropy 0.989025418634
 entropy of  TR -> x
-entropy 0.998115966532
+entropy 0.995344606778
 entropy of  TR -> o
 entropy 0.891599627828
 entropy of  TR -> b
-entropy 0.968897709224
-gain of  TR 0.0269768407655
+entropy 0.957553483715
+gain of  TR 0.0320693206702
+entropy of  TL
+entropy 0.989025418634
+entropy of  TL -> x
+entropy 0.998059704571
+entropy of  TL -> o
+entropy 0.918295834054
+entropy of  TL -> b
+entropy 0.964078764808
+gain of  TL 0.0227571179842
 entropy of  BL
-entropy 0.987692508896
+entropy 0.989025418634
 entropy of  BL -> x
-entropy 0.996694339796
+entropy 0.998000883872
 entropy of  BL -> b
 entropy 0.966618632548
 entropy of  BL -> o
-entropy 0.893571101654
-gain of  BL 0.0296067246224
-entropy of  TL
-entropy 0.987692508896
-entropy of  TL -> x
-entropy 0.996791631982
-entropy of  TL -> o
-entropy 0.906370188608
-entropy of  TL -> b
-entropy 0.950956048455
-gain of  TL 0.028371119972
+entropy 0.918295834054
+gain of  BL 0.0225163659514
 entropy of  BR
-entropy 0.987692508896
+entropy 0.989025418634
 entropy of  BR -> o
-entropy 0.930149732397
+entropy 0.918295834054
 entropy of  BR -> b
-entropy 0.968897709224
+entropy 0.986232535072
 entropy of  BR -> x
 entropy 0.999961566736
-gain of  BR 0.0147471099752
+gain of  BR 0.0159160554621
 entropy of  BM
-entropy 0.987692508896
+entropy 0.989025418634
 entropy of  BM -> o
-entropy 0.992398500333
+entropy 0.995727452085
 entropy of  BM -> b
-entropy 0.99777247209
+entropy 0.99944333309
 entropy of  BM -> x
-entropy 0.952959644652
-gain of  BM 0.0118967978718
+entropy 0.958711882977
+gain of  BM 0.00922701827101
 entropy of  TM
-entropy 0.987692508896
+entropy 0.989025418634
 entropy of  TM -> x
-entropy 0.974489403398
+entropy 0.97858448532
 entropy of  TM -> o
-entropy 0.985228136034
+entropy 0.990122630894
 entropy of  TM -> b
-entropy 0.999856899153
-gain of  TM 0.00368145835441
+entropy 0.998711751465
+gain of  TM 0.00204429162763
 entropy of  ML
-entropy 0.987692508896
+entropy 0.989025418634
 entropy of  ML -> x
-entropy 0.967146315731
+entropy 0.97186434455
 entropy of  ML -> o
 entropy 0.981940786864
 entropy of  ML -> b
 entropy 0.998781393073
-gain of  ML 0.00810510457043
+gain of  ML 0.0072670372799
 entropy of  MR
-entropy 0.987692508896
+entropy 0.989025418634
 entropy of  MR -> o
-entropy 0.979339925957
+entropy 0.985228136034
 entropy of  MR -> b
 entropy 0.995499384728
 entropy of  MR -> x
 entropy 0.959521277286
-gain of  MR 0.0127351007649
+gain of  MR 0.0124252852281
 ------------computed gain---------------
-BL 0.0296067246224
-TL 0.028371119972
-TR 0.0269768407655
-BR 0.0147471099752
-MR 0.0127351007649
-BM 0.0118967978718
-ML 0.00810510457043
-TM 0.00368145835441
-best attribute: BL
+TR 0.0320693206702
+TL 0.0227571179842
+BL 0.0225163659514
+BR 0.0159160554621
+MR 0.0124252852281
+BM 0.00922701827101
+ML 0.0072670372799
+TM 0.00204429162763
+best attribute: TR
 ----------------------------------------
 entropy of  MM -> b
-entropy 0.886125647465
+entropy 0.904381457724
 entropy of  TL
-entropy 0.886125647465
+entropy 0.904381457724
 entropy of  TL -> x
-entropy 0.721928094887
+entropy 0.754034056197
 entropy of  TL -> o
-entropy 0.998509098918
+entropy 1.0
 entropy of  TL -> b
 entropy 0.791858352567
-gain of  TL 0.0550927558682
-entropy of  TR
-entropy 0.886125647465
-entropy of  TR -> x
-entropy 0.708835673332
-entropy of  TR -> o
-entropy 0.999570839347
-entropy of  TR -> b
-entropy 0.845350936622
-gain of  TR 0.0579021533403
+gain of  TL 0.0574129075185
+entropy of  BL
+entropy 0.904381457724
+entropy of  BL -> x
+entropy 0.714727473132
+entropy of  BL -> b
+entropy 0.870864469235
+entropy of  BL -> o
+entropy 0.999643749678
+gain of  BL 0.0571058217842
 entropy of  BR
-entropy 0.886125647465
+entropy 0.904381457724
 entropy of  BR -> o
-entropy 0.998195879043
+entropy 0.992774453988
 entropy of  BR -> b
 entropy 0.881290899231
 entropy of  BR -> x
-entropy 0.655942075769
-gain of  BR 0.0846065428938
+entropy 0.690070365328
+gain of  BR 0.0868504986007
 entropy of  MR
-entropy 0.886125647465
+entropy 0.904381457724
 entropy of  MR -> o
-entropy 0.769192829013
+entropy 0.811278124459
 entropy of  MR -> b
-entropy 0.799048521044
+entropy 0.845350936622
 entropy of  MR -> x
 entropy 0.973156035442
-gain of  MR 0.0242022218808
+gain of  MR 0.0167668998853
 entropy of  BM
-entropy 0.886125647465
+entropy 0.904381457724
 entropy of  BM -> o
-entropy 0.738284866143
+entropy 0.776555785444
 entropy of  BM -> b
 entropy 0.918295834054
 entropy of  BM -> x
-entropy 0.958042022226
-gain of  BM 0.0210555498191
+entropy 0.970950594455
+gain of  BM 0.0194518981762
 entropy of  ML
-entropy 0.886125647465
+entropy 0.904381457724
 entropy of  ML -> x
 entropy 0.97338543523
 entropy of  ML -> o
 entropy 0.784992088764
 entropy of  ML -> b
-entropy 0.823811633312
-gain of  ML 0.0206704133813
+entropy 0.907165767573
+gain of  ML 0.0182543983446
 entropy of  TM
-entropy 0.886125647465
+entropy 0.904381457724
 entropy of  TM -> x
-entropy 0.983939395164
+entropy 0.991820797422
 entropy of  TM -> o
-entropy 0.746736607483
+entropy 0.784992088764
 entropy of  TM -> b
 entropy 0.823811633312
-gain of  TM 0.0310861854079
+gain of  TM 0.0319945274571
 ------------computed gain---------------
-BR 0.0846065428938
-TR 0.0579021533403
-TL 0.0550927558682
-TM 0.0310861854079
-MR 0.0242022218808
-BM 0.0210555498191
-ML 0.0206704133813
+BR 0.0868504986007
+TL 0.0574129075185
+BL 0.0571058217842
+TM 0.0319945274571
+BM 0.0194518981762
+ML 0.0182543983446
+MR 0.0167668998853
 best attribute: BR
 ----------------------------------------
 entropy of  MM -> x
-entropy 0.715322052804
-entropy of  TR
-entropy 0.715322052804
-entropy of  TR -> x
-entropy 0.632920898482
-entropy of  TR -> o
-entropy 0.864437650971
-entropy of  TR -> b
-entropy 0.487369571024
-gain of  TR 0.0257480593163
+entropy 0.736967250508
 entropy of  TL
-entropy 0.715322052804
+entropy 0.736967250508
 entropy of  TL -> x
-entropy 0.647230853845
+entropy 0.663757936926
 entropy of  TL -> o
-entropy 0.846274847768
+entropy 0.875047569755
 entropy of  TL -> b
 entropy 0.5435644432
-gain of  TL 0.0174232453563
+gain of  TL 0.0218644187316
+entropy of  BL
+entropy 0.736967250508
+entropy of  BL -> x
+entropy 0.685476199641
+entropy of  BL -> b
+entropy 0.587311608998
+entropy of  BL -> o
+entropy 0.842657877202
+gain of  BL 0.0124468668121
 entropy of  TM
-entropy 0.715322052804
+entropy 0.736967250508
 entropy of  TM -> x
-entropy 0.743270919404
+entropy 0.785560292254
 entropy of  TM -> o
-entropy 0.692419486327
+entropy 0.735985802491
 entropy of  TM -> b
-entropy 0.709512886346
-gain of  TM 0.000541537417621
+entropy 0.665580063147
+gain of  TM 0.00249573153101
+entropy of  BM
+entropy 0.736967250508
+entropy of  BM -> o
+entropy 0.665899177984
+entropy of  BM -> b
+entropy 0.790206924189
+entropy of  BM -> x
+entropy 0.767404416584
+gain of  BM 0.00345603370749
+entropy of  ML
+entropy 0.736967250508
+entropy of  ML -> x
+entropy 0.7688468846
+entropy of  ML -> o
+entropy 0.689602497574
+entropy of  ML -> b
+entropy 0.757878462538
+gain of  ML 0.00152590440121
 entropy of  MR
-entropy 0.715322052804
+entropy 0.736967250508
 entropy of  MR -> o
-entropy 0.716050104522
+entropy 0.771465266861
 entropy of  MR -> b
 entropy 0.692105325363
 entropy of  MR -> x
 entropy 0.730926377591
-gain of  MR 0.000252755750268
-entropy of  BM
-entropy 0.715322052804
-entropy of  BM -> o
-entropy 0.665899177984
-entropy of  BM -> b
-entropy 0.753715348372
-entropy of  BM -> x
-entropy 0.737642380186
-gain of  BM 0.00164673054985
-entropy of  ML
-entropy 0.715322052804
-entropy of  ML -> x
-entropy 0.740147042714
-entropy of  ML -> o
-entropy 0.689602497574
-entropy of  ML -> b
-entropy 0.71774180917
-gain of  ML 0.000523871524247
+gain of  MR 0.00115511946409
 ------------computed gain---------------
-TR 0.0257480593163
-TL 0.0174232453563
-BM 0.00164673054985
-TM 0.000541537417621
-ML 0.000523871524247
-MR 0.000252755750268
-best attribute: TR
-----------------------------------------
-entropy of  BL -> x
-entropy 0.996694339796
-entropy of  TL
-entropy 0.996694339796
-entropy of  TL -> x
-entropy 0.866300675498
-entropy of  TL -> o
-entropy 0.942683189255
-entropy of  TL -> b
-entropy 0.994984828186
-gain of  TL 0.0784572330768
-entropy of  BM
-entropy 0.996694339796
-entropy of  BM -> o
-entropy 0.985228136034
-entropy of  BM -> b
-entropy 0.994030211477
-entropy of  BM -> x
-entropy 0.968897709224
-gain of  BM 0.0164037696665
-entropy of  TM
-entropy 0.996694339796
-entropy of  TM -> x
-entropy 0.991076059838
-entropy of  TM -> o
-entropy 0.999673426005
-entropy of  TM -> b
-entropy 0.926212212735
-gain of  TM 0.0225757350058
-entropy of  ML
-entropy 0.996694339796
-entropy of  ML -> x
-entropy 0.962900414771
-entropy of  ML -> o
-entropy 0.976634911444
-entropy of  ML -> b
-entropy 0.997180398894
-gain of  ML 0.0215187004969
-entropy of  MR
-entropy 0.996694339796
-entropy of  MR -> o
-entropy 1.0
-entropy of  MR -> b
-entropy 0.902393282795
-entropy of  MR -> x
-entropy 0.978869850507
-gain of  MR 0.0354990893164
-------------computed gain---------------
-TL 0.0784572330768
-MR 0.0354990893164
-TM 0.0225757350058
-ML 0.0215187004969
-BM 0.0164037696665
+TL 0.0218644187316
+BL 0.0124468668121
+BM 0.00345603370749
+TM 0.00249573153101
+ML 0.00152590440121
+MR 0.00115511946409
 best attribute: TL
 ----------------------------------------
+entropy of  TR -> x
+entropy 0.995344606778
+entropy of  BL
+entropy 0.995344606778
+entropy of  BL -> x
+entropy 0.988283610992
 entropy of  BL -> b
-entropy 0.966618632548
-entropy of  MR
-entropy 0.966618632548
-entropy of  MR -> o
-entropy 0.836640741941
-entropy of  MR -> b
-entropy 0.995727452085
-entropy of  MR -> x
-entropy 0.985228136034
-gain of  MR 0.0187533501342
-entropy of  TM
-entropy 0.966618632548
-entropy of  TM -> x
-entropy 0.999249247996
-entropy of  TM -> o
-entropy 0.811278124459
-entropy of  TM -> b
-entropy 0.764204506509
-gain of  TM 0.0588504675876
-entropy of  ML
-entropy 0.966618632548
-entropy of  ML -> x
-entropy 0.591672778582
-entropy of  ML -> o
-entropy 0.998000883872
-entropy of  ML -> b
-entropy 0.954434002925
-gain of  ML 0.13343846843
-entropy of  BM
-entropy 0.966618632548
-entropy of  BM -> o
-entropy 0.998000883872
-entropy of  BM -> b
-entropy 0.940285958671
-entropy of  BM -> x
-entropy 0.666578357995
-gain of  BM 0.119166445962
-------------computed gain---------------
-ML 0.13343846843
-BM 0.119166445962
-TM 0.0588504675876
-MR 0.0187533501342
-best attribute: ML
-----------------------------------------
+entropy 0.99613448351
 entropy of  BL -> o
-entropy 0.893571101654
+entropy 0.901170195997
+gain of  BL 0.0307819026585
 entropy of  BM
-entropy 0.893571101654
+entropy 0.995344606778
 entropy of  BM -> o
-entropy 0.997502546369
+entropy 0.993055483012
 entropy of  BM -> b
-entropy 0.989587521222
+entropy 0.899743758698
 entropy of  BM -> x
-entropy 0.675191440146
-gain of  BM 0.0650556289486
+entropy 0.979868756651
+gain of  BM 0.0327913747821
 entropy of  TM
-entropy 0.893571101654
+entropy 0.995344606778
 entropy of  TM -> x
-entropy 0.890491640219
+entropy 0.950079625234
 entropy of  TM -> o
-entropy 0.940285958671
+entropy 0.99344723838
 entropy of  TM -> b
-entropy 0.863120568567
-gain of  TM 0.00167339300245
+entropy 0.996791631982
+gain of  TM 0.0217408942842
+entropy of  ML
+entropy 0.995344606778
+entropy of  ML -> x
+entropy 0.988699408288
+entropy of  ML -> o
+entropy 0.998747297936
+entropy of  ML -> b
+entropy 0.901170195997
+gain of  ML 0.0293196437509
 entropy of  MR
-entropy 0.893571101654
+entropy 0.995344606778
 entropy of  MR -> o
-entropy 0.863120568567
+entropy 0.958711882977
 entropy of  MR -> b
-entropy 0.83147438801
+entropy 0.986786720268
 entropy of  MR -> x
-entropy 0.918295834054
-gain of  MR 0.00311505141212
+entropy 0.944387195013
+gain of  MR 0.0351149349111
 ------------computed gain---------------
-BM 0.0650556289486
-MR 0.00311505141212
-TM 0.00167339300245
-best attribute: BM
+MR 0.0351149349111
+BM 0.0327913747821
+BL 0.0307819026585
+ML 0.0293196437509
+TM 0.0217408942842
+best attribute: MR
+----------------------------------------
+entropy of  TR -> o
+entropy 0.891599627828
+entropy of  BM
+entropy 0.891599627828
+entropy of  BM -> o
+entropy 0.945660304601
+entropy of  BM -> b
+entropy 0.863120568567
+entropy of  BM -> x
+entropy 0.888646669898
+gain of  BM 0.00182824368578
+entropy of  BL
+entropy 0.891599627828
+entropy of  BL -> x
+entropy 0.89805879345
+entropy of  BL -> b
+entropy 0.0
+entropy of  BL -> o
+entropy 0.165427033996
+gain of  BL 0.419814860364
+entropy of  ML
+entropy 0.891599627828
+entropy of  ML -> x
+entropy 0.931304368579
+entropy of  ML -> o
+entropy 0.811278124459
+entropy of  ML -> b
+entropy 0.811278124459
+gain of  ML 0.00771303470344
+entropy of  TM
+entropy 0.891599627828
+entropy of  TM -> x
+entropy 0.712064054891
+entropy of  TM -> o
+entropy 0.954434002925
+entropy of  TM -> b
+entropy 0.994984828186
+gain of  TM 0.0478316503739
+------------computed gain---------------
+BL 0.419814860364
+TM 0.0478316503739
+ML 0.00771303470344
+BM 0.00182824368578
+best attribute: BL
+----------------------------------------
+entropy of  TR -> b
+entropy 0.957553483715
+entropy of  TM
+entropy 0.957553483715
+entropy of  TM -> x
+entropy 0.684038435639
+entropy of  TM -> o
+entropy 0.998000883872
+entropy of  TM -> b
+entropy 0.997502546369
+gain of  TM 0.0787878687853
+entropy of  ML
+entropy 0.957553483715
+entropy of  ML -> x
+entropy 0.987137774372
+entropy of  ML -> o
+entropy 0.811278124459
+entropy of  ML -> b
+entropy 0.979868756651
+gain of  ML 0.020432650916
+entropy of  BM
+entropy 0.957553483715
+entropy of  BM -> o
+entropy 0.811278124459
+entropy of  BM -> b
+entropy 0.961236604723
+entropy of  BM -> x
+entropy 0.992266638719
+gain of  BM 0.022169718618
+------------computed gain---------------
+TM 0.0787878687853
+BM 0.022169718618
+ML 0.020432650916
+best attribute: TM
 ----------------------------------------
 entropy of  BR -> o
-entropy 0.998195879043
-entropy of  MR
-entropy 0.998195879043
-entropy of  MR -> o
-entropy 0.988699408288
-entropy of  MR -> b
+entropy 0.992774453988
+entropy of  BM
+entropy 0.992774453988
+entropy of  BM -> o
+entropy 0.964078764808
+entropy of  BM -> b
 entropy 0.811278124459
-entropy of  MR -> x
-entropy 0.811278124459
-gain of  MR 0.115949241052
-entropy of  TM
-entropy 0.998195879043
-entropy of  TM -> x
-entropy 0.989587521222
-entropy of  TM -> o
+entropy of  BM -> x
+entropy 0.940285958671
+gain of  BM 0.0675832993976
+entropy of  ML
+entropy 0.992774453988
+entropy of  ML -> x
+entropy 0.994984828186
+entropy of  ML -> o
 entropy 0.863120568567
-entropy of  TM -> b
-entropy 0.954434002925
-gain of  TM 0.0377707781949
+entropy of  ML -> b
+entropy 0.764204506509
+gain of  ML 0.0727914436126
 ------------computed gain---------------
-MR 0.115949241052
-TM 0.0377707781949
-best attribute: MR
+ML 0.0727914436126
+BM 0.0675832993976
+best attribute: ML
 ----------------------------------------
 entropy of  BR -> b
 entropy 0.881290899231
-entropy of  TM
+entropy of  BM
 entropy 0.881290899231
-entropy of  TM -> x
-entropy 0.881290899231
-entropy of  TM -> o
+entropy of  BM -> o
+entropy 0.0
+entropy of  BM -> b
 entropy 0.918295834054
-entropy of  TM -> b
-entropy 0.811278124459
-gain of  TM 0.00290107450717
+entropy of  BM -> x
+entropy 0.721928094887
+gain of  BM 0.425320125293
 ------------computed gain---------------
-TM 0.00290107450717
-best attribute: TM
+BM 0.425320125293
+best attribute: BM
 ----------------------------------------
 entropy of  BR -> x
-entropy 0.655942075769
-entropy of  TR -> x
-entropy 0.632920898482
-entropy of  TR -> o
-entropy 0.864437650971
-entropy of  TR -> b
-entropy 0.487369571024
+entropy 0.690070365328
 entropy of  TL -> x
-entropy 0.866300675498
+entropy 0.663757936926
 entropy of  TL -> o
-entropy 0.942683189255
+entropy 0.875047569755
 entropy of  TL -> b
-entropy 0.994984828186
-entropy of  ML -> x
-entropy 0.591672778582
-entropy of  ML -> o
-entropy 0.998000883872
-entropy of  ML -> b
-entropy 0.954434002925
-entropy of  BM -> o
-entropy 0.997502546369
-entropy of  BM -> b
-entropy 0.989587521222
-entropy of  BM -> x
-entropy 0.675191440146
+entropy 0.5435644432
 entropy of  MR -> o
-entropy 0.988699408288
+entropy 0.958711882977
 entropy of  MR -> b
-entropy 0.811278124459
+entropy 0.986786720268
 entropy of  MR -> x
-entropy 0.811278124459
+entropy 0.944387195013
+entropy of  BL -> x
+entropy 0.89805879345
+entropy of  BL -> b
+entropy 0.0
+entropy of  BL -> o
+entropy 0.165427033996
 entropy of  TM -> x
-entropy 0.881290899231
+entropy 0.684038435639
 entropy of  TM -> o
-entropy 0.918295834054
+entropy 0.998000883872
 entropy of  TM -> b
-entropy 0.811278124459
+entropy 0.997502546369
+entropy of  ML -> x
+entropy 0.994984828186
+entropy of  ML -> o
+entropy 0.863120568567
+entropy of  ML -> b
+entropy 0.764204506509
+entropy of  BM -> o
+entropy 0.0
+entropy of  BM -> b
+entropy 0.918295834054
+entropy of  BM -> x
+entropy 0.721928094887
 MM -> b -> BR -> x -> positive
-MM -> x -> TR -> x -> positive
-MM -> x -> TR -> o -> positive
-MM -> x -> TR -> b -> positive
-MM -> o -> BL -> x -> TL -> x -> positive
-MM -> o -> BL -> x -> TL -> o -> negative
-MM -> o -> BL -> x -> TL -> b -> negative
-MM -> o -> BL -> b -> ML -> x -> negative
-MM -> o -> BL -> b -> ML -> o -> negative
-MM -> o -> BL -> b -> ML -> b -> positive
-MM -> o -> BL -> o -> BM -> o -> negative
-MM -> o -> BL -> o -> BM -> b -> negative
-MM -> o -> BL -> o -> BM -> x -> negative
-MM -> b -> BR -> o -> MR -> o -> negative
-MM -> b -> BR -> o -> MR -> b -> positive
-MM -> b -> BR -> o -> MR -> x -> negative
-MM -> b -> BR -> b -> TM -> x -> positive
-MM -> b -> BR -> b -> TM -> o -> positive
-MM -> b -> BR -> b -> TM -> b -> positive
-time elapsed building tree: 0.160615689511
+MM -> x -> TL -> x -> positive
+MM -> x -> TL -> o -> positive
+MM -> x -> TL -> b -> positive
+MM -> o -> TR -> x -> MR -> o -> negative
+MM -> o -> TR -> x -> MR -> b -> positive
+MM -> o -> TR -> x -> MR -> x -> positive
+MM -> o -> TR -> o -> BL -> x -> positive
+MM -> o -> TR -> o -> BL -> b -> negative
+MM -> o -> TR -> o -> BL -> o -> negative
+MM -> o -> TR -> b -> TM -> x -> negative
+MM -> o -> TR -> b -> TM -> o -> negative
+MM -> o -> TR -> b -> TM -> b -> positive
+MM -> b -> BR -> o -> ML -> x -> negative
+MM -> b -> BR -> o -> ML -> o -> positive
+MM -> b -> BR -> o -> ML -> b -> negative
+MM -> b -> BR -> b -> BM -> o -> positive
+MM -> b -> BR -> b -> BM -> b -> positive
+MM -> b -> BR -> b -> BM -> x -> negative
+time elapsed building tree: 0.16669877951
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'x', 'o', 'o', 'b', 'o', 'b', 'positive']
 predicted: negative 	actual: positive
@@ -570,11 +570,11 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'o', 'o', 'x', 'o', 'b', 'b', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'o', 'o', 'b', 'o', 'x', 'b', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'o', 'b', 'x', 'o', 'o', 'b', 'positive']
@@ -582,7 +582,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'o', 'b', 'o', 'o', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'o', 'b', 'b', 'x', 'o', 'o', 'positive']
@@ -594,7 +594,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'b', 'o', 'x', 'o', 'b', 'o', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'b', 'o', 'o', 'o', 'b', 'x', 'positive']
@@ -602,7 +602,7 @@ predicted: negative 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'b', 'o', 'b', 'o', 'x', 'o', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'b', 'b', 'o', 'x', 'o', 'o', 'positive']
@@ -710,7 +710,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'x', 'o', 'b', 'x', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'x', 'b', 'o', 'x', 'b', 'b', 'positive']
@@ -722,7 +722,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'o', 'o', 'b', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'b', 'x', 'o', 'b', 'b', 'x', 'positive']
@@ -730,7 +730,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'x', 'x', 'o', 'o', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'x', 'o', 'x', 'o', 'o', 'b', 'x', 'positive']
@@ -738,7 +738,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'x', 'o', 'o', 'x', 'b', 'o', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'o', 'x', 'x', 'x', 'o', 'o', 'b', 'positive']
@@ -818,7 +818,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'o', 'o', 'x', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'b', 'x', 'o', 'b', 'x', 'x', 'positive']
@@ -894,7 +894,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'x', 'o', 'x', 'b', 'o', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'o', 'x', 'o', 'x', 'x', 'b', 'positive']
@@ -902,7 +902,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'o', 'o', 'x', 'x', 'b', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
@@ -986,7 +986,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'x', 'o', 'o', 'x', 'b', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'x', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
@@ -1006,11 +1006,11 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'o', 'x', 'o', 'b', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'o', 'b', 'o', 'x', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'b', 'x', 'x', 'x', 'o', 'b', 'b', 'positive']
@@ -1022,7 +1022,7 @@ predicted: negative 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'x', 'x', 'o', 'x', 'o', 'o', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'x', 'o', 'x', 'o', 'x', 'b', 'b', 'positive']
@@ -1030,7 +1030,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'x', 'o', 'o', 'x', 'b', 'b', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'x', 'b', 'x', 'b', 'x', 'o', 'o', 'positive']
@@ -1042,7 +1042,7 @@ predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'o', 'x', 'o', 'o', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
+predicted: positive 	actual: positive
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'o', 'b', 'b', 'o', 'x', 'x', 'x', 'positive']
@@ -1082,7 +1082,7 @@ predicted: negative 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'b', 'o', 'o', 'o', 'x', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'b', 'o', 'o', 'o', 'b', 'b', 'x', 'negative']
@@ -1090,7 +1090,7 @@ predicted: negative 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'x', 'x', 'o', 'x', 'b', 'o', 'o', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'x', 'o', 'o', 'x', 'x', 'o', 'b', 'negative']
@@ -1114,11 +1114,11 @@ predicted: negative 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'b', 'o', 'b', 'x', 'o', 'x', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'x', 'o', 'o', 'o', 'x', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'x', 'o', 'o', 'o', 'b', 'b', 'x', 'negative']
@@ -1154,7 +1154,7 @@ predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'o', 'o', 'x', 'x', 'b', 'o', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'o', 'o', 'o', 'b', 'x', 'x', 'negative']
@@ -1166,7 +1166,7 @@ predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'b', 'o', 'x', 'o', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'x', 'x', 'o', 'x', 'b', 'o', 'negative']
@@ -1174,11 +1174,11 @@ predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'x', 'o', 'b', 'x', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'b', 'o', 'x', 'x', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'b', 'x', 'o', 'o', 'x', 'x', 'o', 'negative']
@@ -1194,7 +1194,7 @@ predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'x', 'x', 'o', 'x', 'x', 'b', 'o', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'x', 'o', 'x', 'b', 'o', 'x', 'x', 'negative']
@@ -1214,7 +1214,7 @@ predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'o', 'x', 'b', 'b', 'x', 'x', 'b', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'o', 'o', 'x', 'x', 'b', 'x', 'x', 'negative']
@@ -1226,7 +1226,7 @@ predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'o', 'b', 'b', 'x', 'x', 'x', 'b', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'b', 'o', 'x', 'x', 'o', 'x', 'x', 'negative']
@@ -1234,7 +1234,7 @@ predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'x', 'o', 'b', 'x', 'b', 'o', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'o', 'x', 'b', 'o', 'x', 'b', 'negative']
@@ -1242,7 +1242,7 @@ predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'b', 'o', 'x', 'x', 'b', 'o', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'o', 'x', 'o', 'x', 'o', 'x', 'x', 'negative']
@@ -1282,11 +1282,11 @@ predicted: negative 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'x', 'x', 'o', 'x', 'x', 'o', 'o', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'x', 'b', 'o', 'x', 'x', 'o', 'b', 'negative']
-predicted: negative 	actual: negative
+predicted: positive 	actual: negative
 ====================================
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'b', 'x', 'o', 'x', 'x', 'o', 'b', 'negative']
@@ -1317,10 +1317,10 @@ predicted: positive 	actual: negative
 predicted: positive 	actual: negative
 ====================================
 					actual positive  | actual negative
-predicted positive 				99.0  |  34.0
-predicted negative 				34.0  |  32.0
-accuracy: 0.685863874346
-precision: 0.744360902256
-sensitivity: 0.792
-specifity: 0.484848484848
-time elapsed running tree on test data: 0.0333345307614
+predicted positive 				109.0  |  39.0
+predicted negative 				39.0  |  27.0
+accuracy: 0.712041884817
+precision: 0.736486486486
+sensitivity: 0.872
+specifity: 0.409090909091
+time elapsed running tree on test data: 0.0350513626653

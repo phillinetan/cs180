@@ -18,7 +18,7 @@ class tree_builder: 		# represents the whole algo
 		#self.conn = sql.connect('train.db')
 		self.c = self.conn.cursor()
 		self.c.executescript("drop table if exists data;")		
-		inp = open('set1.txt', 'r')			#opens file containing data for training
+		inp = open('train1.txt', 'r')			#opens file containing data for training
 		attr = inp.readline().strip('\n')		#gets the first line (assumed to be the column/attribute names)
 		attr = attr.split(' ')
 		stmt = "Create table if not exists data ("		#creates (main) data table
@@ -171,7 +171,7 @@ class tree_builder: 		# represents the whole algo
 				#print "+", i.attr, i.value		
 				if i in self.leaves:
 					print "predicted:", i.end, "\tactual:", sample[-1]
-					return i.end
+					self.confusion_mtx.classify(i.end, sample[-1])
 				else:
 					self.traverse (attr, sample, i)
 
@@ -182,15 +182,15 @@ class tree_builder: 		# represents the whole algo
 		for i in self.tree: 
 			if i.attr==root and i.value==sample[attr.index(root)]: #will look for the root in the tree having the same value with the test input
 				#print i.attr, i.value
-				return self.traverse(attr, sample, i)
-				break
-		print "===================================="
+				self.traverse(attr, sample, i)
+				
+				
 
 	def decisionTree_Testing(self):
-		inp = open('test.txt', 'r')			#opens file containing data for testing
+		inp = open('set1.txt', 'r')			#opens file containing data for testing
 		#test_output = open('test_output.txt', 'w')
 		#train_output = open('train_output.txt', 'w')
-		confusion_mtx = confusion(self)
+		self.confusion_mtx = confusion(self)
 		attr = inp.readline().strip('\n')		#gets the first line (assumed to be the column/attribute names)
 		attr = attr.split(' ')
 		for i in self.tree: #will make the parent node point to its children
@@ -201,10 +201,10 @@ class tree_builder: 		# represents the whole algo
 		for line in inp:
 			line = line.strip('\n').split(' ') #for the traversal of every tree
 			#print line
-			predict = self.traverse_driver (attr, line, self.tree[0].attr)
-			confusion_mtx.classify(predict, line[-1])
+			self.traverse_driver (attr, line, self.tree[0].attr)
+			print "===================================="
 
-		confusion_mtx.print_matrix()
+		self.confusion_mtx.print_matrix()
 			
 
 
@@ -228,23 +228,24 @@ class node:
 
 class confusion:
 	def __init__(self, parent):
-		self.tp = 0		#predict = + actual = +
-		self.fn = 0		#predict = - actual = +
-		self.fp = 0		#predict = + actual = -
-		self.tn = 0		#predict = - actual = -
+		self.tp = float(0)		#predict = + actual = +
+		self.fn = float(0)		#predict = - actual = +
+		self.fp = float(0)		#predict = + actual = -
+		self.tn = float(0)		#predict = - actual = -
 		self.cls = parent.cls
 
 	def classify(self, predicted, actual):
 		if (predicted == actual):
-			if (predicted == self.cls[1]):
+			if (predicted == self.cls[1]): #true positive
 				self.tp += 1
-			else:
+			elif (predicted == self.cls[2]):				#
 				self.tn += 1
 		else:
 			if (predicted == self.cls[2]):
 				self.fn += 1
-			else:
+			elif (predicted == self.cls[1]):
 				self.fp += 1
+
 
 	def print_matrix(self):
 		print "\t\t\t\t\tactual", self.cls[1]," | actual",self.cls[2]
@@ -259,6 +260,7 @@ class confusion:
 		print "precision:", prec
 		print "sensitivity:", sens
 		print "specifity:", spec
+
 
 
 tree = tree_builder()
