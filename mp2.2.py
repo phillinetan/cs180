@@ -246,9 +246,9 @@ class confusion:
 				self.fp += 1
 
 	def print_matrix(self):
-		print "\tactual", self.cls[1]," | actual",self.cls[2]
-		print "predicted",self.cls[1], "\t",self.tp," | ",self.fp
-		print "predicted",self.cls[2],"\t",self.fp," | ",self.tn
+		print "\t\t\t\t\tactual", self.cls[1]," | actual",self.cls[2]
+		print "predicted",self.cls[1], "\t\t\t\t",self.tp," | ",self.fp
+		print "predicted",self.cls[2],"\t\t\t\t",self.fp," | ",self.tn
 
 		acc = (self.tp+self.tn)/(self.tp+self.tn+self.fp+self.fn)
 		prec = (self.tp)/(self.tp+self.fp)

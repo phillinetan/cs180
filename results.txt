@@ -551,7 +551,7 @@ MM -> b -> BR -> o -> BM -> o -> negative
 MM -> b -> BR -> b -> ML -> x -> positive
 MM -> b -> BR -> b -> ML -> o -> negative
 MM -> b -> BR -> b -> ML -> b -> positive
-time elapsed building tree: 0.132766156764
+time elapsed building tree: 0.235086072528
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'x', 'o', 'o', 'x', 'o', 'o', 'positive']
 predicted: negative 	actual: positive
@@ -1938,11 +1938,11 @@ predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'x', 'o', 'o', 'x', 'o', 'x', 'negative']
 predicted: negative 	actual: negative
-	actual positive  | actual negative
-predicted positive 	217  |  245
-predicted negative 	245  |  0
+					actual positive  | actual negative
+predicted positive 			217  |  245
+predicted negative 			245  |  0
 accuracy: 0
 precision: 0
 sensitivity: 1
 specifity: 0
-time elapsed running tree on test data: 0.073074524034
+time elapsed running tree on test data: 0.0698750584913
