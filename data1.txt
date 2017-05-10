@@ -1,0 +1,15 @@
+Outlook Temp Humidity Wind Play
+Sunny Hot High Light No
+Sunny Hot High Strong No
+Overcast Hot High Light Yes
+Rain Mild High Light Yes
+Rain Cool Normal Light Yes
+Rain Cool Normal Strong No
+Overcast Cool Normal Strong Yes
+Sunny Mild High Light No
+Sunny Cool Normal Light Yes
+Rain Mild Normal Light Yes
+Sunny Mild Normal Strong Yes
+Overcast Mild High Strong Yes
+Overcast Hot Normal Light Yes
+Rain Mild High Strong No
