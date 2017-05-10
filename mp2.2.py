@@ -18,7 +18,7 @@ class tree_builder: 		# represents the whole algo
 		#self.conn = sql.connect('train.db')
 		self.c = self.conn.cursor()
 		self.c.executescript("drop table if exists data;")		
-		inp = open('train.txt', 'r')			#opens file containing data for training
+		inp = open('set1.txt', 'r')			#opens file containing data for training
 		attr = inp.readline().strip('\n')		#gets the first line (assumed to be the column/attribute names)
 		attr = attr.split(' ')
 		stmt = "Create table if not exists data ("		#creates (main) data table
@@ -225,6 +225,7 @@ class node:
 
 	def leaf(self, value):
 		self.end = value
+
 class confusion:
 	def __init__(self, parent):
 		self.tp = 0		#predict = + actual = +

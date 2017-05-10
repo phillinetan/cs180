@@ -1,941 +1,710 @@
 setting up database
 extracting data from training set
 entropy of  TL
-entropy 0.949863710597
+entropy 0.930030673793
 entropy of  TL -> x
-entropy 0.910569031551
+entropy 0.87836093877
 entropy of  TL -> o
-entropy 0.99344723838
+entropy 0.98612608463
 entropy of  TL -> b
-entropy 0.911938895776
-gain of  TL 0.0109275132809
+entropy 0.892623013385
+gain of  TL 0.0118595695004
 entropy of  TM
-entropy 0.949863710597
+entropy 0.930030673793
 entropy of  TM -> x
-entropy 0.989941286544
+entropy 0.970950594455
 entropy of  TM -> o
-entropy 0.926073757773
+entropy 0.902393282795
 entropy of  TM -> b
-entropy 0.879458773643
-gain of  TM 0.0112743071848
+entropy 0.881290899231
+gain of  TM 0.0062411648393
 entropy of  TR
-entropy 0.949863710597
+entropy 0.930030673793
 entropy of  TR -> x
-entropy 0.904185410841
+entropy 0.876716288999
 entropy of  TR -> o
-entropy 0.998790879011
+entropy 0.97869614483
 entropy of  TR -> b
-entropy 0.870346054693
-gain of  TR 0.0200894260182
+entropy 0.909736122531
+gain of  TR 0.00902442013665
 entropy of  ML
-entropy 0.949863710597
+entropy 0.930030673793
 entropy of  ML -> x
-entropy 0.983651723571
+entropy 0.970950594455
 entropy of  ML -> o
-entropy 0.906153218519
+entropy 0.884963636383
 entropy of  ML -> b
-entropy 0.932707612669
-gain of  ML 0.00648792856383
-entropy of  MM
-entropy 0.949863710597
-entropy of  MM -> o
-entropy 0.982474086839
-entropy of  MM -> b
-entropy 0.93608143194
-entropy of  MM -> x
-entropy 0.742487569542
-gain of  MM 0.0859369616104
-entropy of  MR
-entropy 0.949863710597
-entropy of  MR -> o
-entropy 0.929183103608
-entropy of  MR -> b
-entropy 0.900719679862
-entropy of  MR -> x
-entropy 0.982423518172
-gain of  MR 0.00620634963265
-entropy of  BL
-entropy 0.949863710597
-entropy of  BL -> o
-entropy 0.994277965075
-entropy of  BL -> b
-entropy 0.940285958671
-entropy of  BL -> x
-entropy 0.874697763355
-gain of  BL 0.0161589680694
-entropy of  BM
-entropy 0.949863710597
-entropy of  BM -> x
-entropy 0.985836097944
-entropy of  BM -> b
-entropy 0.928362072395
-entropy of  BM -> o
 entropy 0.904381457724
-gain of  BM 0.00759865561379
+gain of  ML 0.0062193257738
+entropy of  MM
+entropy 0.930030673793
+entropy of  MM -> o
+entropy 0.988699408288
+entropy of  MM -> b
+entropy 0.863120568567
+entropy of  MM -> x
+entropy 0.755375412561
+gain of  MM 0.0767295220338
+entropy of  MR
+entropy 0.930030673793
+entropy of  MR -> o
+entropy 0.83147438801
+entropy of  MR -> b
+entropy 0.962412735463
+entropy of  MR -> x
+entropy 0.975679786893
+gain of  MR 0.0147873297166
+entropy of  BL
+entropy 0.930030673793
+entropy of  BL -> b
+entropy 0.909736122531
+entropy of  BL -> o
+entropy 0.983149128228
+entropy of  BL -> x
+entropy 0.886540892822
+gain of  BL 0.00878980674378
+entropy of  BM
+entropy 0.930030673793
+entropy of  BM -> o
+entropy 0.960362270315
+entropy of  BM -> b
+entropy 0.825626526158
+entropy of  BM -> x
+entropy 0.955622269353
+gain of  BM 0.0096721221087
 entropy of  BR
-entropy 0.949863710597
-entropy of  BR -> o
-entropy 0.992952051315
+entropy 0.930030673793
 entropy of  BR -> b
-entropy 0.927278057598
+entropy 0.881290899231
 entropy of  BR -> x
-entropy 0.907623507857
-gain of  BR 0.0100911797314
+entropy 0.853372818843
+entropy of  BR -> o
+entropy 0.991076059838
+gain of  BR 0.0189020614044
 ------------computed gain---------------
-MM 0.0859369616104
-TR 0.0200894260182
-BL 0.0161589680694
-TM 0.0112743071848
-TL 0.0109275132809
-BR 0.0100911797314
-BM 0.00759865561379
-ML 0.00648792856383
-MR 0.00620634963265
+MM 0.0767295220338
+BR 0.0189020614044
+MR 0.0147873297166
+TL 0.0118595695004
+BM 0.0096721221087
+TR 0.00902442013665
+BL 0.00878980674378
+TM 0.0062411648393
+ML 0.0062193257738
 best attribute: MM
 ----------------------------------------
 ------------------------------------
 entropy of  MM -> o
-entropy 0.982474086839
-entropy of  TR
-entropy 0.982474086839
-entropy of  TR -> x
-entropy 0.999673426005
-entropy of  TR -> o
-entropy 0.787126586201
-entropy of  TR -> b
-entropy 0.994693795361
-gain of  TR 0.0439905269588
-entropy of  BL
-entropy 0.982474086839
-entropy of  BL -> o
-entropy 0.942163169084
-entropy of  BL -> b
-entropy 0.935269139868
-entropy of  BL -> x
-entropy 0.999884414872
-gain of  BL 0.0163948103312
-entropy of  TM
-entropy 0.982474086839
-entropy of  TM -> x
-entropy 0.943876757129
-entropy of  TM -> o
-entropy 0.975525951126
-entropy of  TM -> b
-entropy 0.994984828186
-gain of  TM 0.0163528968397
+entropy 0.988699408288
+entropy of  BR
+entropy 0.988699408288
+entropy of  BR -> b
+entropy 0.994030211477
+entropy of  BR -> x
+entropy 0.9811522342
+entropy of  BR -> o
+entropy 0.773226674288
+gain of  BR 0.0768081829639
+entropy of  MR
+entropy 0.988699408288
+entropy of  MR -> o
+entropy 0.998000883872
+entropy of  MR -> b
+entropy 0.961236604723
+entropy of  MR -> x
+entropy 0.988699408288
+gain of  MR 0.00281700641033
 entropy of  TL
-entropy 0.982474086839
+entropy 0.988699408288
 entropy of  TL -> x
-entropy 0.99857464654
+entropy 0.994030211477
 entropy of  TL -> o
-entropy 0.931304368579
+entropy 0.896038232535
 entropy of  TL -> b
-entropy 0.964956766951
-gain of  TL 0.00986931076089
-entropy of  BR
-entropy 0.982474086839
-entropy of  BR -> o
-entropy 0.886540892822
-entropy of  BR -> b
-entropy 0.934068055375
-entropy of  BR -> x
-entropy 0.999673426005
-gain of  BR 0.0262912794537
+entropy 0.996791631982
+gain of  TL 0.0185199836164
 entropy of  BM
-entropy 0.982474086839
-entropy of  BM -> x
-entropy 0.963651273995
-entropy of  BM -> b
-entropy 0.999643749678
+entropy 0.988699408288
 entropy of  BM -> o
-entropy 0.981453895034
-gain of  BM 0.00487952141239
-entropy of  ML
-entropy 0.982474086839
-entropy of  ML -> x
-entropy 0.949452015388
-entropy of  ML -> o
-entropy 0.966618632548
-entropy of  ML -> b
-entropy 0.994984828186
-gain of  ML 0.0155392626992
-entropy of  MR
-entropy 0.982474086839
-entropy of  MR -> o
-entropy 0.934849024235
-entropy of  MR -> b
-entropy 0.97366806455
-entropy of  MR -> x
-entropy 0.959937717567
-gain of  MR 0.027277374531
-------------computed gain---------------
-TR 0.0439905269588
-MR 0.027277374531
-BR 0.0262912794537
-BL 0.0163948103312
-TM 0.0163528968397
-ML 0.0155392626992
-TL 0.00986931076089
-BM 0.00487952141239
-best attribute: TR
-----------------------------------------
-entropy of  MM -> b
-entropy 0.93608143194
-entropy of  MR
-entropy 0.93608143194
-entropy of  MR -> o
-entropy 0.770629069364
-entropy of  MR -> b
-entropy 0.970950594455
-entropy of  MR -> x
-entropy 0.986786720268
-gain of  MR 0.0290402763796
-entropy of  BR
-entropy 0.93608143194
-entropy of  BR -> o
-entropy 0.978449329269
-entropy of  BR -> b
-entropy 0.873981048127
-entropy of  BR -> x
-entropy 0.749595257259
-gain of  BR 0.0870392822596
+entropy 0.918295834054
+entropy of  BM -> b
+entropy 0.997502546369
+entropy of  BM -> x
+entropy 0.999142103992
+gain of  BM 0.01273082521
+entropy of  TR
+entropy 0.988699408288
+entropy of  TR -> x
+entropy 0.999249247996
+entropy of  TR -> o
+entropy 0.945660304601
+entropy of  TR -> b
+entropy 0.994030211477
+gain of  TR 0.00876838148653
 entropy of  BL
-entropy 0.93608143194
-entropy of  BL -> o
-entropy 1.0
+entropy 0.988699408288
 entropy of  BL -> b
+entropy 0.995727452085
+entropy of  BL -> o
 entropy 0.954434002925
 entropy of  BL -> x
-entropy 0.672294817076
-gain of  BL 0.0709795248105
+entropy 0.994693795361
+gain of  BL 0.00386059951429
 entropy of  TM
-entropy 0.93608143194
+entropy 0.988699408288
 entropy of  TM -> x
-entropy 0.985228136034
+entropy 0.918295834054
 entropy of  TM -> o
-entropy 0.881290899231
+entropy 0.981940786864
 entropy of  TM -> b
-entropy 0.886540892822
-gain of  TM 0.0120797015644
+entropy 0.964078764808
+gain of  TM 0.0386325295942
 entropy of  ML
-entropy 0.93608143194
+entropy 0.988699408288
 entropy of  ML -> x
-entropy 0.989992791558
+entropy 0.966618632548
 entropy of  ML -> o
-entropy 0.811278124459
+entropy 0.992774453988
 entropy of  ML -> b
-entropy 0.930586129132
-gain of  ML 0.0205043665393
-entropy of  TL
-entropy 0.93608143194
-entropy of  TL -> x
-entropy 0.82805572538
-entropy of  TL -> o
-entropy 0.982858689713
-entropy of  TL -> b
-entropy 0.811278124459
-gain of  TL 0.0653389399928
-entropy of  BM
-entropy 0.93608143194
-entropy of  BM -> x
-entropy 0.997180398894
-entropy of  BM -> b
-entropy 0.899743758698
-entropy of  BM -> o
-entropy 0.841852189756
-gain of  BM 0.0252469410208
+entropy 1.0
+gain of  ML 0.00556173967751
 ------------computed gain---------------
-BR 0.0870392822596
-BL 0.0709795248105
-TL 0.0653389399928
-MR 0.0290402763796
-BM 0.0252469410208
-ML 0.0205043665393
-TM 0.0120797015644
+BR 0.0768081829639
+TM 0.0386325295942
+TL 0.0185199836164
+BM 0.01273082521
+TR 0.00876838148653
+ML 0.00556173967751
+BL 0.00386059951429
+MR 0.00281700641033
 best attribute: BR
 ----------------------------------------
-entropy of  MM -> x
-entropy 0.742487569542
-entropy of  BL
-entropy 0.742487569542
-entropy of  BL -> o
-entropy 0.885372377007
-entropy of  BL -> b
-entropy 0.503258334776
-entropy of  BL -> x
-entropy 0.658191265813
-gain of  BL 0.0261948256607
-entropy of  TL
-entropy 0.742487569542
-entropy of  TL -> x
-entropy 0.6171519192
-entropy of  TL -> o
-entropy 0.89527226424
-entropy of  TL -> b
-entropy 0.529360865287
-gain of  TL 0.031144249495
-entropy of  MR
-entropy 0.742487569542
-entropy of  MR -> o
-entropy 0.703582100572
-entropy of  MR -> b
-entropy 0.767651587013
-entropy of  MR -> x
-entropy 0.764204506509
-gain of  MR 0.00107018346829
-entropy of  BM
-entropy 0.742487569542
-entropy of  BM -> x
-entropy 0.742487569542
-entropy of  BM -> b
-entropy 0.785560292254
-entropy of  BM -> o
-entropy 0.708080325614
-gain of  BM 0.00118940005343
-entropy of  ML
-entropy 0.742487569542
-entropy of  ML -> x
-entropy 0.776116265619
-entropy of  ML -> o
-entropy 0.636504855538
-entropy of  ML -> b
-entropy 0.824657833295
-gain of  ML 0.00729578529107
+entropy of  MM -> b
+entropy 0.863120568567
 entropy of  TM
-entropy 0.742487569542
+entropy 0.863120568567
 entropy of  TM -> x
-entropy 0.784519138899
+entropy 0.896038232535
 entropy of  TM -> o
-entropy 0.752626956443
+entropy 0.811278124459
 entropy of  TM -> b
-entropy 0.668127333844
-gain of  TM 0.00243858754956
+entropy 0.863120568567
+gain of  TM 0.00272647730866
+entropy of  TL
+entropy 0.863120568567
+entropy of  TL -> x
+entropy 0.503258334776
+entropy of  TL -> o
+entropy 1.0
+entropy of  TL -> b
+entropy 0.985228136034
+gain of  TL 0.121542083475
+entropy of  BM
+entropy 0.863120568567
+entropy of  BM -> o
+entropy 0.845350936622
+entropy of  BM -> b
+entropy 0.439496986922
+entropy of  BM -> x
+entropy 0.995727452085
+gain of  BM 0.089469596107
+entropy of  TR
+entropy 0.863120568567
+entropy of  TR -> x
+entropy 0.5435644432
+entropy of  TR -> o
+entropy 0.995727452085
+entropy of  TR -> b
+entropy 0.918295834054
+gain of  TR 0.0873701979202
+entropy of  ML
+entropy 0.863120568567
+entropy of  ML -> x
+entropy 0.954434002925
+entropy of  ML -> o
+entropy 0.650022421648
+entropy of  ML -> b
+entropy 0.863120568567
+gain of  ML 0.0313189375225
+entropy of  BL
+entropy 0.863120568567
+entropy of  BL -> b
+entropy 1.0
+entropy of  BL -> o
+entropy 0.991076059838
+entropy of  BL -> x
+entropy 0.684038435639
+gain of  BL 0.0640197079208
+entropy of  MR
+entropy 0.863120568567
+entropy of  MR -> o
+entropy 0.742487569542
+entropy of  MR -> b
+entropy 0.970950594455
+entropy of  MR -> x
+entropy 0.945660304601
+gain of  MR 0.0241411358758
 ------------computed gain---------------
-TL 0.031144249495
-BL 0.0261948256607
-ML 0.00729578529107
-TM 0.00243858754956
-BM 0.00118940005343
-MR 0.00107018346829
+TL 0.121542083475
+BM 0.089469596107
+TR 0.0873701979202
+BL 0.0640197079208
+ML 0.0313189375225
+MR 0.0241411358758
+TM 0.00272647730866
 best attribute: TL
 ----------------------------------------
+entropy of  MM -> x
+entropy 0.755375412561
+entropy of  BM
+entropy 0.755375412561
+entropy of  BM -> o
+entropy 0.823811633312
+entropy of  BM -> b
+entropy 0.619382194679
+entropy of  BM -> x
+entropy 0.775512658133
+gain of  BM 0.00771192637676
+entropy of  TR
+entropy 0.755375412561
 entropy of  TR -> x
-entropy 0.999673426005
-entropy of  BL
-entropy 0.999673426005
-entropy of  BL -> o
-entropy 0.927526588432
-entropy of  BL -> b
-entropy 0.996316519559
-entropy of  BL -> x
-entropy 0.962900414771
-gain of  BL 0.0399903834446
-entropy of  ML
-entropy 0.999673426005
-entropy of  ML -> x
-entropy 0.957553483715
-entropy of  ML -> o
-entropy 0.99777247209
-entropy of  ML -> b
-entropy 0.893571101654
-gain of  ML 0.0464561709949
-entropy of  TM
-entropy 0.999673426005
-entropy of  TM -> x
-entropy 0.976020648237
-entropy of  TM -> o
-entropy 0.957553483715
-entropy of  TM -> b
-entropy 0.998363672594
-gain of  TM 0.0243585677644
-entropy of  BM
-entropy 0.999673426005
-entropy of  BM -> x
-entropy 0.964078764808
-entropy of  BM -> b
-entropy 0.904381457724
-entropy of  BM -> o
-entropy 0.999337504169
-gain of  BM 0.0390935364966
-entropy of  MR
-entropy 0.999673426005
-entropy of  MR -> o
-entropy 0.907165767573
-entropy of  MR -> b
-entropy 0.970950594455
-entropy of  MR -> x
-entropy 0.968164732076
-gain of  MR 0.0510326370355
-------------computed gain---------------
-MR 0.0510326370355
-ML 0.0464561709949
-BL 0.0399903834446
-BM 0.0390935364966
-TM 0.0243585677644
-best attribute: MR
-----------------------------------------
+entropy 0.672294817076
 entropy of  TR -> o
-entropy 0.787126586201
-entropy of  ML
-entropy 0.787126586201
-entropy of  ML -> x
-entropy 0.797326510147
-entropy of  ML -> o
-entropy 0.721928094887
-entropy of  ML -> b
-entropy 0.811278124459
-gain of  ML 0.00130134626678
+entropy 0.822404225955
+entropy of  TR -> b
+entropy 0.755375412561
+gain of  TR 0.00520360627981
 entropy of  BL
-entropy 0.787126586201
-entropy of  BL -> o
-entropy 0.0
+entropy 0.755375412561
 entropy of  BL -> b
-entropy 0.0
+entropy 0.666578357995
+entropy of  BL -> o
+entropy 0.9081783473
 entropy of  BL -> x
-entropy 0.970950594455
-gain of  BL 0.406361647199
-entropy of  BM
-entropy 0.787126586201
-entropy of  BM -> x
-entropy 0.857148437428
-entropy of  BM -> b
-entropy 0.413816850304
-entropy of  BM -> o
-entropy 0.863120568567
-gain of  BM 0.0334717591166
+entropy 0.591672778582
+gain of  BL 0.0280067898174
+entropy of  ML
+entropy 0.755375412561
+entropy of  ML -> x
+entropy 0.770629069364
+entropy of  ML -> o
+entropy 0.733537929109
+entropy of  ML -> b
+entropy 0.764204506509
+gain of  ML 0.000339408042847
+entropy of  MR
+entropy 0.755375412561
+entropy of  MR -> o
+entropy 0.629249223856
+entropy of  MR -> b
+entropy 0.840358671609
+entropy of  MR -> x
+entropy 0.811278124459
+gain of  MR 0.0110647228525
 entropy of  TM
-entropy 0.787126586201
+entropy 0.755375412561
 entropy of  TM -> x
-entropy 0.380946585705
+entropy 0.757878462538
 entropy of  TM -> o
-entropy 1.0
+entropy 0.721928094887
 entropy of  TM -> b
-entropy 0.940285958671
-gain of  TM 0.131252836487
+entropy 0.795040279385
+gain of  TM 0.00107540052991
 ------------computed gain---------------
-BL 0.406361647199
-TM 0.131252836487
-BM 0.0334717591166
-ML 0.00130134626678
+BL 0.0280067898174
+MR 0.0110647228525
+BM 0.00771192637676
+TR 0.00520360627981
+TM 0.00107540052991
+ML 0.000339408042847
 best attribute: BL
 ----------------------------------------
-entropy of  TR -> b
-entropy 0.994693795361
-entropy of  TM
-entropy 0.994693795361
-entropy of  TM -> x
-entropy 0.650022421648
-entropy of  TM -> o
-entropy 0.970950594455
-entropy of  TM -> b
-entropy 0.779349837292
-gain of  TM 0.204941712815
+entropy of  BR -> b
+entropy 0.994030211477
+entropy of  MR
+entropy 0.994030211477
+entropy of  MR -> o
+entropy 0.0
+entropy of  MR -> b
+entropy 0.0
+entropy of  MR -> x
+entropy 0.811278124459
+gain of  MR 0.404009757325
 entropy of  BM
-entropy 0.994693795361
-entropy of  BM -> x
-entropy 0.977417817528
-entropy of  BM -> b
-entropy 1.0
+entropy 0.994030211477
 entropy of  BM -> o
+entropy 0.650022421648
+entropy of  BM -> b
+entropy 0.0
+entropy of  BM -> x
+entropy 0.918295834054
+gain of  BM 0.389028208563
+entropy of  TR
+entropy 0.994030211477
+entropy of  TR -> x
+entropy 0.970950594455
+entropy of  TR -> o
+entropy 1.0
+entropy of  TR -> b
+entropy 0.0
+gain of  TR 0.189052668543
+entropy of  TM
+entropy 0.994030211477
+entropy of  TM -> x
+entropy 0.970950594455
+entropy of  TM -> o
 entropy 0.721928094887
-gain of  BM 0.0851113997369
+entropy of  TM -> b
+entropy 0.0
+gain of  TM 0.22453989814
 entropy of  ML
-entropy 0.994693795361
+entropy 0.994030211477
 entropy of  ML -> x
-entropy 0.991076059838
+entropy 1.0
 entropy of  ML -> o
-entropy 0.881290899231
+entropy 0.918295834054
 entropy of  ML -> b
-entropy 0.985228136034
-gain of  ML 0.0361545090289
+entropy 0.0
+gain of  ML 0.198131347644
 ------------computed gain---------------
-TM 0.204941712815
-BM 0.0851113997369
-ML 0.0361545090289
+MR 0.404009757325
+BM 0.389028208563
+TM 0.22453989814
+ML 0.198131347644
+TR 0.189052668543
+best attribute: MR
+----------------------------------------
+entropy of  BR -> x
+entropy 0.9811522342
+entropy of  BM
+entropy 0.9811522342
+entropy of  BM -> o
+entropy 0.991076059838
+entropy of  BM -> b
+entropy 0.991076059838
+entropy of  BM -> x
+entropy 0.779349837292
+gain of  BM 0.0788645902681
+entropy of  TM
+entropy 0.9811522342
+entropy of  TM -> x
+entropy 0.881290899231
+entropy of  TM -> o
+entropy 0.918295834054
+entropy of  TM -> b
+entropy 0.811278124459
+gain of  TM 0.116219686061
+entropy of  ML
+entropy 0.9811522342
+entropy of  ML -> x
+entropy 1.0
+entropy of  ML -> o
+entropy 0.995727452085
+entropy of  ML -> b
+entropy 0.811278124459
+gain of  ML 0.0316463673361
+entropy of  TR
+entropy 0.9811522342
+entropy of  TR -> x
+entropy 0.890491640219
+entropy of  TR -> o
+entropy 0.979868756651
+entropy of  TR -> b
+entropy 0.918295834054
+gain of  TR 0.0506815436517
+------------computed gain---------------
+TM 0.116219686061
+BM 0.0788645902681
+TR 0.0506815436517
+ML 0.0316463673361
 best attribute: TM
 ----------------------------------------
 entropy of  BR -> o
-entropy 0.978449329269
+entropy 0.773226674288
 entropy of  BM
-entropy 0.978449329269
-entropy of  BM -> x
-entropy 0.954434002925
-entropy of  BM -> b
-entropy 0.863120568567
+entropy 0.773226674288
 entropy of  BM -> o
-entropy 0.863120568567
-gain of  BM 0.0901388477756
+entropy 0.918295834054
+entropy of  BM -> b
+entropy 0.918295834054
+entropy of  BM -> x
+entropy 0.619382194679
+gain of  BM 0.031561627137
+entropy of  TR
+entropy 0.773226674288
+entropy of  TR -> x
+entropy 0.779349837292
+entropy of  TR -> o
+entropy 0.650022421648
+entropy of  TR -> b
+entropy 0.918295834054
+gain of  TR 0.0102007689762
 entropy of  ML
-entropy 0.978449329269
+entropy 0.773226674288
 entropy of  ML -> x
-entropy 0.977417817528
+entropy 0.811278124459
 entropy of  ML -> o
-entropy 0.811278124459
+entropy 0.0
 entropy of  ML -> b
-entropy 0.811278124459
-gain of  ML 0.0697789709414
+entropy 0.918295834054
+gain of  ML 0.0802670152951
 ------------computed gain---------------
-BM 0.0901388477756
-ML 0.0697789709414
-best attribute: BM
-----------------------------------------
-entropy of  BR -> b
-entropy 0.873981048127
-entropy of  ML
-entropy 0.873981048127
-entropy of  ML -> x
-entropy 0.591672778582
-entropy of  ML -> o
-entropy 1.0
-entropy of  ML -> b
-entropy 0.811278124459
-gain of  ML 0.0865209335443
-------------computed gain---------------
-ML 0.0865209335443
+ML 0.0802670152951
+BM 0.031561627137
+TR 0.0102007689762
 best attribute: ML
 ----------------------------------------
-entropy of  BR -> x
-entropy 0.749595257259
 entropy of  TL -> x
-entropy 0.6171519192
-entropy of  TL -> o
-entropy 0.89527226424
-entropy of  TL -> b
-entropy 0.529360865287
-entropy of  MR -> o
-entropy 0.907165767573
-entropy of  MR -> b
-entropy 0.970950594455
-entropy of  MR -> x
-entropy 0.968164732076
-entropy of  BL -> o
-entropy 0.0
-entropy of  BL -> b
-entropy 0.0
-entropy of  BL -> x
-entropy 0.970950594455
-entropy of  TM -> x
-entropy 0.650022421648
-entropy of  TM -> o
-entropy 0.970950594455
-entropy of  TM -> b
-entropy 0.779349837292
-entropy of  BM -> x
-entropy 0.954434002925
-entropy of  BM -> b
-entropy 0.863120568567
+entropy 0.503258334776
+entropy of  BM
+entropy 0.503258334776
 entropy of  BM -> o
-entropy 0.863120568567
-entropy of  ML -> x
-entropy 0.591672778582
-entropy of  ML -> o
+entropy 0.0
+entropy of  BM -> b
+entropy 0.503258334776
+entropy of  BM -> x
 entropy 1.0
-entropy of  ML -> b
+gain of  BM 0.140518056277
+entropy of  TR
+entropy 0.503258334776
+entropy of  TR -> x
+entropy 0.0
+entropy of  TR -> o
+entropy 0.918295834054
+entropy of  TR -> b
+entropy 0.0
+gain of  TR 0.197159723424
+------------computed gain---------------
+TR 0.197159723424
+BM 0.140518056277
+best attribute: TR
+----------------------------------------
+entropy of  TL -> o
+entropy 1.0
+entropy of  BM
+entropy 1.0
+entropy of  BM -> o
+entropy 1.0
+entropy of  BM -> b
+entropy 0.0
+entropy of  BM -> x
+entropy 0.918295834054
+gain of  BM 0.249022499567
+------------computed gain---------------
+BM 0.249022499567
+best attribute: BM
+----------------------------------------
+entropy of  TL -> b
+entropy 0.985228136034
+entropy of  BL -> b
+entropy 0.666578357995
+entropy of  BL -> o
+entropy 0.9081783473
+entropy of  BL -> x
+entropy 0.591672778582
+entropy of  MR -> o
+entropy 0.0
+entropy of  MR -> b
+entropy 0.0
+entropy of  MR -> x
 entropy 0.811278124459
-MM -> b -> BR -> x -> positive
-MM -> x -> TL -> x -> positive
-MM -> x -> TL -> o -> positive
-MM -> x -> TL -> b -> positive
-MM -> o -> TR -> x -> MR -> o -> negative
-MM -> o -> TR -> x -> MR -> b -> positive
-MM -> o -> TR -> x -> MR -> x -> positive
-MM -> o -> TR -> o -> BL -> o -> negative
-MM -> o -> TR -> o -> BL -> b -> negative
-MM -> o -> TR -> o -> BL -> x -> positive
-MM -> o -> TR -> b -> TM -> x -> negative
-MM -> o -> TR -> b -> TM -> o -> negative
-MM -> o -> TR -> b -> TM -> b -> positive
-MM -> b -> BR -> o -> BM -> x -> negative
-MM -> b -> BR -> o -> BM -> b -> positive
-MM -> b -> BR -> o -> BM -> o -> negative
-MM -> b -> BR -> b -> ML -> x -> positive
-MM -> b -> BR -> b -> ML -> o -> negative
-MM -> b -> BR -> b -> ML -> b -> positive
-time elapsed building tree: 0.235086072528
+entropy of  TM -> x
+entropy 0.881290899231
+entropy of  TM -> o
+entropy 0.918295834054
+entropy of  TM -> b
+entropy 0.811278124459
+entropy of  ML -> x
+entropy 0.811278124459
+entropy of  ML -> o
+entropy 0.0
+entropy of  ML -> b
+entropy 0.918295834054
+entropy of  TR -> x
+entropy 0.0
+entropy of  TR -> o
+entropy 0.918295834054
+entropy of  TR -> b
+entropy 0.0
+entropy of  BM -> o
+entropy 1.0
+entropy of  BM -> b
+entropy 0.0
+entropy of  BM -> x
+entropy 0.918295834054
+MM -> b -> TL -> b -> positive
+MM -> x -> BL -> b -> positive
+MM -> x -> BL -> o -> positive
+MM -> x -> BL -> x -> positive
+MM -> o -> BR -> b -> MR -> o -> positive
+MM -> o -> BR -> b -> MR -> b -> positive
+MM -> o -> BR -> b -> MR -> x -> negative
+MM -> o -> BR -> x -> TM -> x -> negative
+MM -> o -> BR -> x -> TM -> o -> positive
+MM -> o -> BR -> x -> TM -> b -> positive
+MM -> o -> BR -> o -> ML -> x -> negative
+MM -> o -> BR -> o -> ML -> o -> negative
+MM -> o -> BR -> o -> ML -> b -> negative
+MM -> b -> TL -> x -> TR -> x -> positive
+MM -> b -> TL -> x -> TR -> o -> positive
+MM -> b -> TL -> x -> TR -> b -> positive
+MM -> b -> TL -> o -> BM -> o -> negative
+MM -> b -> TL -> o -> BM -> b -> positive
+MM -> b -> TL -> o -> BM -> x -> negative
+time elapsed building tree: 0.0766892016405
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'x', 'o', 'o', 'x', 'o', 'o', 'positive']
 predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'x', 'o', 'o', 'o', 'o', 'x', 'positive']
+['x', 'x', 'x', 'x', 'o', 'o', 'b', 'b', 'o', 'positive']
 predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'x', 'o', 'o', 'o', 'b', 'b', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'x', 'o', 'o', 'b', 'o', 'b', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'x', 'o', 'b', 'o', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'x', 'o', 'b', 'b', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'x', 'b', 'o', 'o', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'x', 'b', 'o', 'b', 'o', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'x', 'o', 'o', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'o', 'x', 'o', 'o', 'b', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'x', 'o', 'b', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'x', 'b', 'o', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'x', 'b', 'o', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'o', 'x', 'b', 'b', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'o', 'x', 'x', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'o', 'x', 'b', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'o', 'b', 'x', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'o', 'b', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'b', 'x', 'b', 'o', 'o', 'positive']
+['x', 'x', 'x', 'o', 'o', 'x', 'b', 'o', 'b', 'positive']
 predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'b', 'o', 'x', 'o', 'b', 'positive']
+['x', 'x', 'x', 'o', 'o', 'b', 'o', 'b', 'x', 'positive']
 predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'b', 'o', 'x', 'b', 'o', 'positive']
+['x', 'x', 'x', 'o', 'b', 'x', 'o', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'b', 'o', 'b', 'b', 'b', 'positive']
-predicted: negative 	actual: positive
+['x', 'x', 'x', 'o', 'b', 'o', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'o', 'b', 'b', 'o', 'x', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'b', 'b', 'o', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'b', 'b', 'o', 'b', 'b', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'o', 'b', 'b', 'b', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'x', 'o', 'o', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'x', 'o', 'b', 'o', 'o', 'positive']
+['x', 'x', 'x', 'b', 'x', 'o', 'o', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'b', 'o', 'x', 'b', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'x', 'b', 'o', 'o', 'b', 'x', 'o', 'positive']
 predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'o', 'o', 'b', 'o', 'x', 'positive']
+['x', 'x', 'x', 'b', 'o', 'b', 'o', 'o', 'x', 'positive']
 predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'o', 'o', 'b', 'b', 'b', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'o', 'b', 'o', 'x', 'o', 'positive']
+['x', 'x', 'x', 'b', 'b', 'o', 'o', 'x', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'o', 'b', 'b', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'o', 'b', 'b', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'b', 'o', 'x', 'o', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'b', 'o', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'b', 'b', 'o', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'x', 'b', 'b', 'b', 'b', 'o', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'x', 'o', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'o', 'x', 'x', 'o', 'o', 'positive']
+['x', 'x', 'x', 'b', 'b', 'b', 'o', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'o', 'x', 'o', 'o', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'o', 'o', 'x', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'o', 'b', 'x', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'o', 'b', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'b', 'b', 'x', 'o', 'o', 'positive']
 predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'o', 'x', 'x', 'o', 'o', 'x', 'positive']
+['x', 'x', 'o', 'x', 'b', 'b', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'o', 'o', 'x', 'o', 'b', 'x', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'o', 'x', 'b', 'o', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'o', 'x', 'b', 'b', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'o', 'o', 'x', 'b', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'b', 'x', 'o', 'o', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'b', 'x', 'o', 'o', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'b', 'x', 'o', 'b', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'o', 'b', 'x', 'b', 'o', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'x', 'o', 'o', 'x', 'o', 'b', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'x', 'o', 'o', 'x', 'b', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'x', 'o', 'b', 'x', 'o', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'b', 'o', 'x', 'o', 'o', 'x', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'o', 'x', 'o', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'b', 'x', 'o', 'o', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'x', 'x', 'o', 'x', 'o', 'o', 'positive']
+['x', 'x', 'b', 'o', 'x', 'b', 'o', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'x', 'x', 'o', 'o', 'x', 'x', 'o', 'positive']
 predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'x', 'o', 'b', 'x', 'b', 'o', 'positive']
+['x', 'o', 'x', 'x', 'b', 'b', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'x', 'b', 'o', 'x', 'o', 'b', 'positive']
+['x', 'o', 'x', 'o', 'x', 'o', 'x', 'b', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'x', 'b', 'o', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'o', 'x', 'x', 'x', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'o', 'x', 'x', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'o', 'x', 'o', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'o', 'x', 'o', 'b', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'o', 'x', 'b', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'o', 'x', 'b', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'o', 'o', 'x', 'b', 'b', 'x', 'positive']
+['x', 'o', 'x', 'o', 'x', 'b', 'o', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'x', 'o', 'b', 'x', 'b', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'b', 'x', 'o', 'x', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'b', 'x', 'o', 'o', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'b', 'x', 'b', 'o', 'o', 'x', 'positive']
+['x', 'o', 'x', 'b', 'x', 'b', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'o', 'x', 'x', 'x', 'o', 'x', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'x', 'x', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'o', 'x', 'x', 'o', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'x', 'o', 'o', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'o', 'x', 'x', 'b', 'x', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'x', 'b', 'b', 'o', 'x', 'positive']
+['x', 'o', 'o', 'x', 'o', 'o', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'o', 'x', 'x', 'x', 'o', 'positive']
+['x', 'o', 'o', 'x', 'b', 'o', 'x', 'x', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'o', 'x', 'x', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'b', 'x', 'x', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'b', 'x', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'b', 'o', 'x', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'b', 'b', 'x', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'o', 'x', 'b', 'x', 'b', 'x', 'positive']
+['x', 'o', 'o', 'o', 'x', 'x', 'x', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'o', 'o', 'x', 'b', 'b', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'o', 'o', 'x', 'x', 'x', 'x', 'positive']
+['x', 'o', 'o', 'b', 'x', 'o', 'x', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'b', 'x', 'x', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'b', 'x', 'o', 'b', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'b', 'x', 'b', 'b', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
+['x', 'o', 'o', 'b', 'o', 'b', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'x', 'x', 'o', 'x', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'x', 'x', 'b', 'x', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'x', 'x', 'b', 'o', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'x', 'o', 'x', 'x', 'b', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'x', 'o', 'b', 'x', 'x', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'x', 'b', 'o', 'x', 'x', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'x', 'b', 'o', 'x', 'b', 'b', 'positive']
+['x', 'o', 'b', 'x', 'o', 'b', 'x', 'b', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'x', 'b', 'b', 'x', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'o', 'x', 'x', 'o', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'o', 'x', 'o', 'b', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'o', 'x', 'b', 'o', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'o', 'x', 'b', 'b', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'o', 'o', 'b', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'b', 'x', 'x', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'b', 'x', 'o', 'b', 'b', 'x', 'positive']
+['x', 'o', 'b', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'b', 'x', 'b', 'o', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'b', 'x', 'b', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'b', 'o', 'o', 'x', 'x', 'x', 'positive']
+['x', 'b', 'x', 'x', 'o', 'b', 'x', 'o', 'o', 'positive']
 predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'x', 'o', 'o', 'x', 'o', 'b', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'x', 'b', 'o', 'x', 'o', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'o', 'x', 'o', 'x', 'o', 'b', 'positive']
+['x', 'b', 'x', 'o', 'x', 'o', 'b', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'o', 'o', 'x', 'b', 'o', 'x', 'positive']
+['x', 'b', 'x', 'o', 'b', 'x', 'o', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'b', 'x', 'o', 'x', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'b', 'x', 'o', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'x', 'o', 'b', 'o', 'x', 'positive']
+['x', 'b', 'o', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'o', 'x', 'x', 'b', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'o', 'x', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'o', 'o', 'x', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'o', 'x', 'o', 'o', 'x', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'o', 'b', 'x', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'b', 'x', 'x', 'o', 'o', 'positive']
-predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'o', 'x', 'b', 'o', 'x', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
@@ -943,916 +712,385 @@ predicted: positive 	actual: positive
 ['x', 'b', 'o', 'o', 'x', 'x', 'b', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'o', 'x', 'o', 'x', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'o', 'x', 'o', 'b', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'o', 'o', 'b', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'b', 'x', 'x', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'b', 'x', 'o', 'x', 'o', 'x', 'positive']
+['x', 'b', 'o', 'o', 'x', 'b', 'b', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'o', 'b', 'x', 'o', 'o', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'b', 'x', 'o', 'b', 'b', 'x', 'positive']
+['x', 'b', 'b', 'x', 'x', 'o', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'b', 'x', 'b', 'o', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'b', 'o', 'o', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'b', 'x', 'o', 'b', 'x', 'o', 'b', 'positive']
+['x', 'b', 'b', 'x', 'o', 'o', 'x', 'b', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'b', 'x', 'b', 'b', 'x', 'o', 'o', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'b', 'o', 'x', 'x', 'o', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'b', 'o', 'x', 'o', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'b', 'b', 'x', 'o', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'b', 'b', 'x', 'b', 'o', 'o', 'x', 'positive']
+['x', 'b', 'b', 'o', 'x', 'b', 'o', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'x', 'x', 'o', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'x', 'x', 'o', 'o', 'x', 'o', 'positive']
+['o', 'x', 'x', 'o', 'x', 'o', 'x', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'o', 'x', 'o', 'b', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'o', 'x', 'b', 'x', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'o', 'o', 'x', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'b', 'x', 'o', 'x', 'o', 'b', 'positive']
+['o', 'x', 'x', 'o', 'x', 'b', 'b', 'x', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'b', 'x', 'o', 'x', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'b', 'o', 'x', 'o', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'b', 'b', 'x', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'x', 'x', 'x', 'o', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'x', 'x', 'x', 'b', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'x', 'x', 'o', 'o', 'x', 'x', 'positive']
+['o', 'x', 'o', 'x', 'x', 'x', 'o', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'x', 'x', 'o', 'b', 'x', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'x', 'x', 'b', 'b', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'o', 'x', 'x', 'b', 'x', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'o', 'x', 'b', 'x', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'o', 'o', 'x', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'o', 'b', 'b', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'b', 'x', 'b', 'x', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'b', 'x', 'b', 'o', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'b', 'o', 'b', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'b', 'x', 'x', 'x', 'o', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'x', 'x', 'o', 'o', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'x', 'x', 'o', 'b', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'b', 'x', 'x', 'b', 'o', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'x', 'x', 'b', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'x', 'o', 'x', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'x', 'b', 'x', 'x', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'b', 'o', 'x', 'b', 'b', 'x', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'b', 'b', 'x', 'o', 'o', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'b', 'x', 'o', 'b', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'b', 'x', 'b', 'o', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'b', 'x', 'b', 'b', 'x', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'x', 'x', 'x', 'x', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'x', 'x', 'x', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'x', 'x', 'x', 'o', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'x', 'x', 'x', 'x', 'b', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'x', 'x', 'o', 'x', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'x', 'o', 'x', 'o', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'x', 'o', 'x', 'b', 'b', 'x', 'positive']
+['o', 'o', 'x', 'x', 'x', 'b', 'x', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'x', 'x', 'b', 'x', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'o', 'x', 'x', 'x', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'o', 'x', 'x', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'o', 'x', 'b', 'x', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'o', 'x', 'b', 'x', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'o', 'b', 'x', 'x', 'b', 'x', 'positive']
+['o', 'o', 'x', 'o', 'x', 'o', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'x', 'o', 'b', 'x', 'b', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'x', 'x', 'b', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'o', 'b', 'b', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'b', 'x', 'x', 'x', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'b', 'x', 'x', 'o', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'b', 'x', 'b', 'x', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'b', 'x', 'b', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'b', 'o', 'x', 'x', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'b', 'o', 'x', 'b', 'x', 'x', 'positive']
+['o', 'o', 'x', 'b', 'x', 'b', 'x', 'b', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'x', 'b', 'b', 'x', 'o', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'b', 'b', 'x', 'b', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'b', 'b', 'o', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'b', 'x', 'x', 'x', 'x', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'b', 'x', 'x', 'x', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'b', 'x', 'x', 'x', 'o', 'x', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'b', 'x', 'b', 'o', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'b', 'o', 'b', 'x', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'b', 'b', 'x', 'o', 'x', 'x', 'x', 'positive']
+['o', 'o', 'b', 'x', 'o', 'b', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'b', 'b', 'o', 'x', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'b', 'b', 'b', 'b', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'x', 'x', 'x', 'o', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'x', 'x', 'o', 'x', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'x', 'x', 'o', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'x', 'o', 'x', 'o', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'x', 'x', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'x', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'x', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'o', 'x', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
+['o', 'b', 'x', 'x', 'b', 'x', 'o', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'o', 'x', 'o', 'x', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'b', 'x', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'b', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'b', 'x', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'o', 'x', 'x', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'o', 'o', 'x', 'b', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
+['o', 'b', 'x', 'b', 'x', 'x', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'b', 'x', 'o', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'b', 'x', 'b', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'b', 'o', 'x', 'x', 'o', 'x', 'positive']
+['o', 'b', 'x', 'b', 'x', 'b', 'x', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'b', 'o', 'o', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'o', 'x', 'x', 'x', 'x', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'o', 'x', 'x', 'x', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'o', 'x', 'x', 'x', 'b', 'b', 'b', 'positive']
+['o', 'b', 'o', 'x', 'x', 'x', 'o', 'x', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'o', 'x', 'o', 'b', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'o', 'x', 'b', 'o', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'o', 'o', 'b', 'x', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'o', 'b', 'o', 'x', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'o', 'b', 'b', 'b', 'x', 'x', 'x', 'positive']
+['o', 'b', 'b', 'x', 'x', 'x', 'o', 'b', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'b', 'x', 'x', 'x', 'o', 'x', 'o', 'positive']
+['o', 'b', 'b', 'o', 'o', 'x', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'x', 'o', 'x', 'o', 'o', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'x', 'o', 'x', 'b', 'o', 'x', 'o', 'positive']
+['b', 'x', 'x', 'o', 'x', 'o', 'x', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'x', 'x', 'o', 'o', 'x', 'o', 'b', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'b', 'o', 'x', 'o', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'x', 'b', 'o', 'x', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'x', 'b', 'x', 'o', 'o', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'o', 'x', 'x', 'o', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'o', 'x', 'o', 'b', 'x', 'x', 'positive']
+['b', 'x', 'o', 'o', 'x', 'b', 'x', 'x', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'x', 'o', 'b', 'x', 'x', 'o', 'x', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'b', 'x', 'o', 'o', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'b', 'x', 'o', 'b', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'b', 'x', 'b', 'o', 'x', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'b', 'x', 'b', 'b', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'x', 'o', 'b', 'o', 'o', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'b', 'x', 'x', 'o', 'o', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'b', 'o', 'x', 'x', 'o', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
+predicted: negative 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'x', 'b', 'o', 'x', 'o', 'b', 'x', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'b', 'o', 'x', 'b', 'o', 'x', 'b', 'positive']
+['b', 'x', 'b', 'b', 'x', 'b', 'o', 'x', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'b', 'o', 'x', 'b', 'b', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'b', 'b', 'x', 'o', 'b', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'x', 'x', 'b', 'x', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'o', 'x', 'x', 'x', 'o', 'b', 'positive']
+['b', 'o', 'x', 'x', 'x', 'o', 'x', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'x', 'o', 'x', 'x', 'x', 'b', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'o', 'x', 'x', 'o', 'b', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'x', 'o', 'x', 'b', 'x', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'o', 'x', 'b', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'o', 'x', 'b', 'x', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'o', 'o', 'x', 'x', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'x', 'o', 'o', 'b', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'o', 'b', 'x', 'x', 'o', 'x', 'positive']
+['b', 'o', 'x', 'b', 'x', 'x', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'o', 'b', 'x', 'b', 'b', 'x', 'positive']
+['b', 'o', 'x', 'b', 'x', 'b', 'x', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'b', 'x', 'x', 'o', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'b', 'x', 'o', 'x', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'b', 'x', 'o', 'x', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'b', 'x', 'o', 'x', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'b', 'x', 'b', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'o', 'x', 'x', 'x', 'x', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'o', 'x', 'x', 'x', 'o', 'x', 'b', 'positive']
+['b', 'o', 'x', 'b', 'b', 'x', 'o', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'o', 'x', 'x', 'x', 'o', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'o', 'x', 'x', 'x', 'b', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'o', 'x', 'x', 'x', 'b', 'o', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'o', 'x', 'o', 'b', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'o', 'o', 'b', 'x', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'o', 'b', 'x', 'o', 'x', 'x', 'x', 'positive']
+['b', 'o', 'o', 'x', 'b', 'o', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'o', 'b', 'b', 'b', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'b', 'x', 'x', 'x', 'o', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'b', 'x', 'x', 'x', 'b', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'b', 'x', 'o', 'o', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'b', 'o', 'x', 'o', 'x', 'x', 'x', 'positive']
+['b', 'o', 'b', 'o', 'b', 'b', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'b', 'o', 'o', 'x', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'b', 'b', 'o', 'b', 'x', 'x', 'x', 'positive']
-predicted: negative 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'x', 'o', 'x', 'o', 'x', 'b', 'b', 'positive']
+['b', 'b', 'x', 'o', 'x', 'x', 'x', 'o', 'o', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'x', 'o', 'x', 'b', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'x', 'o', 'o', 'x', 'o', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'x', 'o', 'o', 'x', 'b', 'b', 'x', 'positive']
+['b', 'b', 'x', 'o', 'x', 'b', 'x', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'x', 'o', 'b', 'x', 'o', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'x', 'b', 'x', 'o', 'x', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'x', 'b', 'o', 'x', 'o', 'b', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'x', 'x', 'x', 'x', 'o', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'x', 'x', 'x', 'o', 'x', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'x', 'x', 'x', 'o', 'b', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'x', 'x', 'x', 'b', 'o', 'b', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'x', 'x', 'x', 'b', 'b', 'o', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'x', 'o', 'o', 'x', 'x', 'x', 'positive']
+['b', 'b', 'o', 'x', 'x', 'x', 'o', 'o', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'o', 'o', 'x', 'o', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'o', 'b', 'b', 'x', 'x', 'x', 'positive']
+['b', 'b', 'b', 'x', 'x', 'x', 'o', 'o', 'b', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'b', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
+['b', 'b', 'b', 'b', 'o', 'o', 'x', 'x', 'x', 'positive']
 predicted: positive 	actual: positive
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'b', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
-predicted: positive 	actual: positive
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'x', 'o', 'b', 'o', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'x', 'b', 'o', 'o', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'o', 'b', 'o', 'x', 'o', 'negative']
+['x', 'x', 'o', 'x', 'o', 'x', 'o', 'b', 'o', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'o', 'x', 'o', 'b', 'o', 'o', 'x', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'x', 'o', 'b', 'o', 'b', 'b', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'o', 'o', 'x', 'o', 'x', 'b', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'o', 'o', 'x', 'o', 'x', 'b', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'o', 'b', 'o', 'x', 'x', 'o', 'negative']
+['x', 'x', 'o', 'o', 'o', 'o', 'b', 'x', 'x', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'o', 'b', 'x', 'o', 'b', 'b', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'b', 'o', 'x', 'o', 'o', 'x', 'negative']
+['x', 'x', 'o', 'b', 'o', 'o', 'o', 'x', 'x', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'b', 'o', 'o', 'x', 'x', 'o', 'negative']
+['x', 'x', 'b', 'x', 'x', 'o', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'b', 'o', 'b', 'o', 'x', 'b', 'negative']
+['x', 'x', 'b', 'o', 'o', 'o', 'x', 'o', 'x', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'x', 'o', 'x', 'o', 'o', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'o', 'x', 'x', 'o', 'o', 'o', 'negative']
+['x', 'x', 'b', 'b', 'x', 'b', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'o', 'o', 'o', 'x', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'o', 'o', 'o', 'o', 'x', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'b', 'o', 'o', 'o', 'b', 'b', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'o', 'o', 'b', 'x', 'o', 'x', 'negative']
+['x', 'o', 'x', 'x', 'o', 'o', 'b', 'o', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'b', 'x', 'x', 'o', 'o', 'o', 'negative']
+['x', 'o', 'x', 'o', 'o', 'o', 'x', 'x', 'b', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'x', 'b', 'o', 'x', 'x', 'o', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'b', 'o', 'b', 'x', 'o', 'b', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'o', 'x', 'x', 'o', 'b', 'x', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'o', 'x', 'o', 'b', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'o', 'x', 'o', 'x', 'b', 'o', 'x', 'negative']
-predicted: negative 	actual: negative
+['x', 'o', 'o', 'b', 'x', 'o', 'x', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'b', 'x', 'o', 'b', 'b', 'o', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'o', 'o', 'x', 'x', 'o', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'b', 'o', 'x', 'b', 'o', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'b', 'b', 'o', 'b', 'x', 'o', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'x', 'o', 'x', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'o', 'x', 'x', 'o', 'o', 'o', 'negative']
+['x', 'b', 'x', 'x', 'x', 'o', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'o', 'o', 'o', 'x', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'x', 'o', 'o', 'o', 'x', 'o', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'x', 'o', 'o', 'o', 'b', 'x', 'b', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'x', 'o', 'o', 'x', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'x', 'o', 'b', 'b', 'o', 'negative']
+['x', 'b', 'x', 'b', 'x', 'b', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'o', 'x', 'o', 'x', 'o', 'o', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'o', 'o', 'o', 'x', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'o', 'b', 'o', 'x', 'b', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'x', 'b', 'o', 'b', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'b', 'x', 'o', 'x', 'b', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'b', 'x', 'o', 'b', 'x', 'o', 'negative']
+['x', 'b', 'o', 'x', 'b', 'o', 'b', 'x', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'b', 'o', 'b', 'o', 'x', 'o', 'x', 'b', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'b', 'o', 'x', 'o', 'b', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'o', 'b', 'o', 'b', 'o', 'x', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'b', 'x', 'x', 'b', 'o', 'o', 'o', 'negative']
+['x', 'b', 'b', 'x', 'b', 'x', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'b', 'b', 'o', 'o', 'o', 'x', 'b', 'x', 'negative']
+['o', 'x', 'x', 'x', 'x', 'b', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'x', 'o', 'b', 'x', 'o', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'x', 'o', 'b', 'b', 'b', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'x', 'b', 'x', 'o', 'o', 'o', 'negative']
 predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'o', 'x', 'x', 'o', 'o', 'b', 'negative']
-predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'o', 'x', 'x', 'o', 'b', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'o', 'x', 'b', 'o', 'o', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'o', 'o', 'o', 'x', 'b', 'x', 'negative']
+['o', 'x', 'x', 'o', 'o', 'x', 'o', 'x', 'b', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'o', 'o', 'b', 'x', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'o', 'o', 'b', 'o', 'x', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'o', 'b', 'b', 'o', 'b', 'x', 'negative']
-predicted: positive 	actual: negative
+['o', 'x', 'x', 'o', 'b', 'b', 'o', 'x', 'b', 'negative']
+predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'x', 'b', 'o', 'x', 'b', 'b', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'b', 'o', 'o', 'x', 'x', 'o', 'negative']
 predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'b', 'o', 'b', 'x', 'b', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'b', 'o', 'b', 'b', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'x', 'o', 'x', 'x', 'b', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'x', 'o', 'x', 'o', 'x', 'b', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'x', 'o', 'x', 'o', 'b', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'x', 'o', 'b', 'x', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'o', 'x', 'b', 'o', 'x', 'x', 'o', 'negative']
+['o', 'x', 'o', 'x', 'o', 'b', 'o', 'x', 'x', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'o', 'b', 'o', 'x', 'o', 'x', 'x', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'x', 'o', 'x', 'o', 'x', 'o', 'negative']
+['o', 'x', 'b', 'x', 'o', 'b', 'x', 'b', 'o', 'negative']
 predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'x', 'o', 'x', 'b', 'b', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'x', 'o', 'b', 'b', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'x', 'x', 'o', 'o', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'x', 'x', 'o', 'b', 'b', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'x', 'b', 'o', 'b', 'x', 'negative']
-predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'x', 'b', 'o', 'o', 'x', 'x', 'x', 'o', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'o', 'x', 'o', 'x', 'x', 'negative']
+['o', 'x', 'b', 'b', 'o', 'x', 'x', 'b', 'o', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'b', 'x', 'o', 'x', 'b', 'negative']
+['o', 'o', 'x', 'x', 'o', 'x', 'b', 'x', 'o', 'negative']
 predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'b', 'x', 'o', 'b', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'o', 'b', 'b', 'o', 'x', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'b', 'b', 'o', 'b', 'x', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'x', 'o', 'x', 'x', 'o', 'b', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'x', 'o', 'x', 'x', 'b', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'x', 'o', 'x', 'x', 'o', 'x', 'b', 'negative']
-predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'x', 'b', 'o', 'x', 'x', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'x', 'x', 'o', 'x', 'x', 'b', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'x', 'x', 'o', 'b', 'x', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'x', 'x', 'b', 'x', 'x', 'o', 'negative']
+['o', 'o', 'o', 'x', 'x', 'b', 'x', 'o', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'o', 'x', 'o', 'x', 'x', 'x', 'b', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'x', 'o', 'x', 'x', 'b', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'x', 'o', 'x', 'b', 'x', 'x', 'negative']
 predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'x', 'b', 'x', 'x', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'x', 'b', 'x', 'x', 'o', 'x', 'negative']
-predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'o', 'x', 'b', 'x', 'x', 'b', 'b', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'x', 'b', 'x', 'b', 'x', 'b', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'o', 'x', 'x', 'x', 'x', 'b', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'o', 'x', 'x', 'b', 'x', 'x', 'negative']
+['o', 'o', 'o', 'x', 'b', 'b', 'x', 'b', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'o', 'o', 'b', 'x', 'x', 'x', 'x', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'b', 'x', 'b', 'x', 'x', 'b', 'negative']
+['o', 'o', 'o', 'b', 'x', 'x', 'b', 'b', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'b', 'x', 'b', 'x', 'b', 'x', 'negative']
+['o', 'o', 'o', 'b', 'b', 'x', 'x', 'b', 'x', 'negative']
 predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'o', 'b', 'x', 'b', 'b', 'x', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'b', 'x', 'o', 'x', 'x', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'o', 'b', 'x', 'o', 'x', 'x', 'o', 'x', 'negative']
-predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'x', 'o', 'x', 'x', 'o', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'x', 'o', 'x', 'b', 'b', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'x', 'o', 'o', 'x', 'x', 'o', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'x', 'o', 'b', 'x', 'b', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'x', 'o', 'b', 'b', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'x', 'o', 'b', 'b', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'o', 'o', 'x', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'x', 'b', 'o', 'x', 'b', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['o', 'b', 'x', 'o', 'x', 'b', 'o', 'b', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'x', 'o', 'o', 'x', 'x', 'x', 'o', 'negative']
+['o', 'b', 'x', 'b', 'o', 'x', 'b', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'o', 'x', 'x', 'o', 'x', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'b', 'x', 'o', 'x', 'x', 'b', 'o', 'negative']
+['o', 'b', 'b', 'o', 'x', 'x', 'o', 'b', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'b', 'x', 'o', 'x', 'b', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'b', 'o', 'b', 'x', 'o', 'x', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'b', 'b', 'b', 'o', 'x', 'x', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'x', 'o', 'x', 'x', 'o', 'o', 'o', 'negative']
-predicted: positive 	actual: negative
+['b', 'x', 'x', 'x', 'o', 'x', 'o', 'o', 'o', 'negative']
+predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'x', 'x', 'o', 'o', 'o', 'x', 'b', 'b', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'x', 'o', 'o', 'o', 'b', 'b', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'x', 'x', 'o', 'x', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'x', 'o', 'x', 'o', 'o', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'x', 'o', 'o', 'x', 'x', 'o', 'negative']
+['b', 'x', 'x', 'b', 'b', 'x', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'x', 'o', 'b', 'o', 'x', 'b', 'negative']
+['b', 'x', 'o', 'x', 'o', 'x', 'o', 'b', 'b', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'x', 'o', 'x', 'b', 'o', 'x', 'b', 'o', 'negative']
@@ -1861,44 +1099,1742 @@ predicted: positive 	actual: negative
 ['b', 'x', 'o', 'b', 'o', 'x', 'o', 'b', 'x', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'b', 'o', 'b', 'o', 'x', 'x', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'o', 'b', 'b', 'o', 'x', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'b', 'x', 'x', 'b', 'o', 'o', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'x', 'b', 'x', 'b', 'x', 'o', 'o', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'x', 'b', 'o', 'o', 'o', 'x', 'x', 'b', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'x', 'o', 'x', 'x', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'x', 'x', 'o', 'x', 'b', 'o', 'b', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'x', 'o', 'o', 'x', 'o', 'x', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'x', 'o', 'b', 'b', 'o', 'x', 'negative']
+['b', 'o', 'x', 'b', 'o', 'b', 'x', 'o', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'x', 'b', 'o', 'b', 'x', 'o', 'x', 'negative']
+['b', 'o', 'b', 'x', 'o', 'x', 'b', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'o', 'o', 'x', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'x', 'x', 'o', 'b', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'b', 'x', 'o', 'x', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'x', 'o', 'o', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'o', 'x', 'x', 'x', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'o', 'x', 'x', 'o', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'x', 'o', 'o', 'o', 'x', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'x', 'o', 'b', 'o', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'x', 'b', 'o', 'b', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'x', 'o', 'b', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'o', 'x', 'x', 'o', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'o', 'x', 'b', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'o', 'b', 'b', 'x', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'b', 'x', 'b', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'b', 'o', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'b', 'b', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'x', 'o', 'o', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'o', 'b', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'b', 'o', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'b', 'o', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'b', 'b', 'o', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'o', 'o', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'x', 'x', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'x', 'o', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'x', 'o', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'x', 'o', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'o', 'x', 'o', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'b', 'x', 'o', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'o', 'o', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'x', 'x', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'x', 'o', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'x', 'b', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'b', 'x', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'b', 'x', 'b', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'x', 'o', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'x', 'b', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'o', 'b', 'x', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'b', 'o', 'x', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'o', 'x', 'x', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'o', 'o', 'x', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'b', 'x', 'o', 'b', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'b', 'b', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'x', 'o', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'o', 'x', 'x', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'b', 'x', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'b', 'b', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'o', 'x', 'b', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'b', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'b', 'x', 'b', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'x', 'b', 'o', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'o', 'x', 'b', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'b', 'x', 'o', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'x', 'b', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'o', 'b', 'x', 'x', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'b', 'o', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'o', 'x', 'o', 'x', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'o', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'b', 'x', 'o', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'x', 'x', 'o', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'x', 'o', 'b', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'o', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'o', 'x', 'b', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'x', 'o', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'x', 'o', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'o', 'x', 'x', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'x', 'o', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'o', 'x', 'b', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'x', 'x', 'o', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'x', 'b', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'o', 'x', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'b', 'x', 'x', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'b', 'x', 'b', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'x', 'x', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'b', 'x', 'o', 'b', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'x', 'x', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'x', 'o', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'o', 'x', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'o', 'x', 'x', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'o', 'x', 'b', 'x', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'o', 'b', 'b', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'x', 'o', 'x', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'o', 'x', 'x', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'b', 'x', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'x', 'x', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'x', 'b', 'o', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'b', 'b', 'b', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'x', 'x', 'o', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'x', 'x', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'x', 'b', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'b', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'b', 'x', 'b', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'b', 'b', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'x', 'x', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'x', 'b', 'o', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'b', 'b', 'b', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'x', 'x', 'x', 'b', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'o', 'b', 'b', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'x', 'o', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'o', 'x', 'b', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'x', 'x', 'o', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'o', 'x', 'x', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'o', 'x', 'b', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'b', 'x', 'o', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'x', 'x', 'o', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'o', 'x', 'b', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'x', 'x', 'x', 'o', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'x', 'x', 'b', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'o', 'x', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'o', 'x', 'b', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'o', 'b', 'x', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'b', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'b', 'x', 'b', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'b', 'b', 'x', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'x', 'x', 'x', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'o', 'x', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'b', 'x', 'x', 'x', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'b', 'x', 'x', 'x', 'b', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'b', 'b', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'x', 'b', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'b', 'x', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'b', 'o', 'x', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'x', 'x', 'x', 'o', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'o', 'o', 'x', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'b', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'x', 'o', 'o', 'b', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'o', 'o', 'o', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'o', 'b', 'o', 'b', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'o', 'x', 'o', 'x', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'o', 'b', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'o', 'x', 'o', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'o', 'b', 'o', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'x', 'o', 'x', 'o', 'o', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'o', 'o', 'o', 'x', 'b', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'b', 'b', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'o', 'b', 'o', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'o', 'o', 'x', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'b', 'o', 'x', 'b', 'o', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'o', 'x', 'o', 'x', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'b', 'o', 'x', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'o', 'o', 'x', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'x', 'o', 'x', 'o', 'o', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'o', 'o', 'o', 'x', 'b', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'b', 'b', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'o', 'x', 'o', 'b', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'o', 'x', 'o', 'x', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'b', 'o', 'x', 'o', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'o', 'o', 'o', 'x', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'o', 'x', 'o', 'b', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'o', 'b', 'o', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'x', 'o', 'o', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'o', 'x', 'b', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'o', 'b', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'b', 'b', 'o', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'o', 'o', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'o', 'x', 'o', 'x', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'b', 'o', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'x', 'o', 'x', 'x', 'o', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'x', 'o', 'b', 'b', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'o', 'x', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'b', 'o', 'x', 'b', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'o', 'b', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'x', 'o', 'x', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'x', 'b', 'x', 'b', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'o', 'x', 'x', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'b', 'x', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'b', 'b', 'b', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'b', 'x', 'x', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'b', 'x', 'b', 'x', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'b', 'b', 'x', 'b', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'x', 'o', 'x', 'o', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'x', 'x', 'o', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'o', 'x', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'b', 'o', 'b', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'x', 'o', 'x', 'x', 'b', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'o', 'x', 'b', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'x', 'b', 'b', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'o', 'o', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'x', 'o', 'x', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'o', 'o', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'b', 'o', 'b', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'b', 'o', 'b', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'o', 'o', 'o', 'x', 'b', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'x', 'o', 'o', 'x', 'o', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'o', 'o', 'x', 'x', 'o', 'x', 'x', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'o', 'x', 'o', 'x', 'o', 'x', 'x', 'negative']
+['b', 'o', 'b', 'x', 'o', 'b', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'o', 'o', 'x', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'x', 'o', 'x', 'o', 'x', 'b', 'negative']
 predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'o', 'b', 'x', 'o', 'b', 'x', 'o', 'x', 'negative']
+['b', 'b', 'o', 'b', 'o', 'x', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'o', 'x', 'o', 'x', 'o', 'negative']
 predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'x', 'o', 'o', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'o', 'x', 'x', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'x', 'o', 'o', 'o', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'x', 'o', 'b', 'o', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'x', 'o', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'x', 'o', 'b', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'o', 'x', 'o', 'x', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'o', 'b', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'o', 'b', 'b', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'b', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'b', 'o', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'b', 'b', 'o', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'x', 'o', 'b', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'o', 'x', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'o', 'b', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'b', 'b', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'b', 'o', 'o', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'b', 'b', 'b', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'o', 'b', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'x', 'b', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'x', 'o', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'x', 'o', 'o', 'x', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'o', 'x', 'o', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'b', 'x', 'o', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'o', 'b', 'x', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'x', 'o', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'o', 'x', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'b', 'x', 'o', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'b', 'o', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'x', 'x', 'o', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'x', 'o', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'x', 'b', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'o', 'b', 'x', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'b', 'b', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'o', 'x', 'x', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'o', 'b', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'b', 'x', 'b', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'x', 'x', 'o', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'x', 'o', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'o', 'o', 'x', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'b', 'o', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'o', 'x', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'o', 'x', 'b', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'b', 'x', 'o', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'b', 'o', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'o', 'x', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'o', 'x', 'b', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'b', 'x', 'o', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'x', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'o', 'x', 'x', 'o', 'b', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'o', 'b', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'b', 'b', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'o', 'x', 'o', 'b', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'b', 'x', 'b', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'x', 'o', 'x', 'x', 'o', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'x', 'o', 'b', 'x', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'o', 'x', 'o', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'b', 'x', 'o', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'o', 'x', 'o', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'x', 'o', 'b', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'o', 'x', 'b', 'b', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'x', 'o', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'b', 'x', 'o', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'x', 'x', 'b', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'x', 'b', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'o', 'x', 'b', 'x', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'b', 'x', 'x', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'b', 'x', 'b', 'b', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'x', 'o', 'x', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'b', 'o', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'b', 'x', 'b', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'x', 'o', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'o', 'x', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'o', 'x', 'x', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'o', 'x', 'b', 'x', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'x', 'x', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'x', 'o', 'x', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'o', 'x', 'b', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'b', 'o', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'x', 'x', 'x', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'o', 'x', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'x', 'x', 'x', 'o', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'x', 'x', 'b', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'x', 'x', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'x', 'b', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'b', 'x', 'x', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'b', 'x', 'o', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'b', 'o', 'x', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'b', 'b', 'x', 'b', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'x', 'x', 'x', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'o', 'x', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'x', 'x', 'x', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'x', 'x', 'x', 'b', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'b', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'x', 'o', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'b', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'o', 'x', 'x', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'o', 'x', 'b', 'b', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'b', 'x', 'o', 'b', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'o', 'x', 'x', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'o', 'x', 'b', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'x', 'o', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'o', 'x', 'x', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'o', 'x', 'b', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'o', 'b', 'x', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'b', 'x', 'o', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'b', 'o', 'x', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'x', 'x', 'x', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'x', 'x', 'x', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'o', 'b', 'x', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'b', 'x', 'x', 'x', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'b', 'x', 'o', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'b', 'b', 'b', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'x', 'o', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'o', 'x', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'b', 'x', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'b', 'b', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'x', 'x', 'x', 'b', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'o', 'b', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'b', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'x', 'o', 'b', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'o', 'o', 'o', 'b', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'b', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'o', 'x', 'o', 'b', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'b', 'o', 'x', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'o', 'x', 'o', 'o', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'o', 'b', 'o', 'b', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'x', 'b', 'b', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'o', 'o', 'o', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'x', 'b', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'o', 'b', 'b', 'o', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'o', 'o', 'b', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'b', 'o', 'o', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'o', 'x', 'o', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'b', 'o', 'x', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'b', 'o', 'x', 'x', 'o', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'x', 'b', 'b', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'o', 'o', 'o', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'x', 'o', 'o', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'o', 'o', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'o', 'o', 'x', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'b', 'o', 'b', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'o', 'o', 'o', 'x', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'o', 'x', 'b', 'o', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'o', 'b', 'b', 'b', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'x', 'b', 'o', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'o', 'o', 'x', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'b', 'x', 'o', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'x', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'o', 'b', 'x', 'b', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'o', 'x', 'o', 'b', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'o', 'x', 'x', 'o', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'x', 'o', 'x', 'o', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'x', 'x', 'o', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'b', 'x', 'o', 'x', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'b', 'o', 'b', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'o', 'b', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'x', 'o', 'x', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'x', 'b', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'o', 'x', 'b', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'b', 'x', 'b', 'x', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'o', 'x', 'x', 'x', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'b', 'x', 'x', 'x', 'b', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'b', 'x', 'b', 'x', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'x', 'o', 'x', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'x', 'o', 'x', 'b', 'b', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'x', 'x', 'o', 'b', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'b', 'x', 'o', 'x', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'x', 'x', 'o', 'x', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'x', 'o', 'x', 'b', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'o', 'b', 'x', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'x', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'o', 'o', 'b', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'x', 'o', 'b', 'b', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'o', 'o', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'o', 'o', 'x', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'b', 'b', 'o', 'x', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'o', 'o', 'o', 'b', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'x', 'o', 'b', 'x', 'o', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'x', 'o', 'x', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'b', 'b', 'o', 'x', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'o', 'o', 'b', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'x', 'o', 'x', 'o', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'x', 'x', 'x', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'o', 'o', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'o', 'o', 'x', 'o', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'x', 'o', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'x', 'o', 'o', 'o', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'x', 'o', 'b', 'b', 'o', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'x', 'o', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'x', 'b', 'o', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'o', 'x', 'o', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'o', 'b', 'x', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'o', 'b', 'b', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'b', 'o', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'b', 'o', 'b', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'o', 'b', 'b', 'b', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'x', 'o', 'o', 'b', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'o', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'b', 'x', 'o', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'o', 'b', 'b', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'x', 'b', 'b', 'o', 'b', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'x', 'o', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'o', 'b', 'x', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'x', 'o', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'x', 'b', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'x', 'o', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'x', 'o', 'b', 'x', 'o', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'o', 'x', 'o', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'x', 'o', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'b', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'x', 'o', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'x', 'b', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'o', 'x', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'b', 'x', 'o', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'b', 'b', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'x', 'x', 'b', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'x', 'o', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'o', 'x', 'x', 'x', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'b', 'x', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'b', 'b', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'o', 'x', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'b', 'x', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'b', 'x', 'b', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'x', 'o', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'o', 'o', 'x', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'b', 'o', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'o', 'x', 'x', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'o', 'x', 'b', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'b', 'x', 'o', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'x', 'o', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'o', 'x', 'o', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'o', 'o', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'b', 'o', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'x', 'o', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'o', 'x', 'x', 'b', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'o', 'b', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'b', 'b', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'o', 'x', 'b', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'b', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'b', 'x', 'b', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'x', 'o', 'o', 'x', 'x', 'o', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'x', 'b', 'o', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'o', 'x', 'o', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'b', 'x', 'o', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'x', 'x', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'x', 'b', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'b', 'x', 'b', 'o', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'x', 'b', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'x', 'x', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'x', 'x', 'b', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'o', 'o', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'o', 'x', 'b', 'b', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'b', 'x', 'o', 'x', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'b', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'x', 'x', 'o', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'x', 'o', 'b', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'b', 'x', 'x', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'b', 'x', 'b', 'b', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'x', 'x', 'o', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'x', 'o', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'o', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'o', 'x', 'x', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'o', 'o', 'x', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'x', 'x', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'x', 'b', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'b', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'x', 'x', 'x', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'x', 'x', 'x', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'o', 'b', 'x', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'x', 'x', 'x', 'o', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'x', 'o', 'x', 'o', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'x', 'x', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'x', 'b', 'x', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'b', 'x', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'b', 'x', 'o', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'b', 'o', 'x', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'x', 'x', 'x', 'x', 'o', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'x', 'x', 'x', 'b', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'o', 'b', 'x', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'x', 'x', 'x', 'o', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'x', 'o', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'b', 'b', 'o', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'x', 'b', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'b', 'x', 'o', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'o', 'x', 'o', 'x', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'o', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: negative 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'b', 'x', 'b', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'o', 'x', 'o', 'x', 'x', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'b', 'x', 'o', 'o', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'x', 'x', 'x', 'b', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'x', 'b', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'o', 'x', 'o', 'x', 'x', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'o', 'o', 'x', 'x', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'o', 'b', 'x', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'b', 'x', 'o', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'b', 'o', 'x', 'b', 'b', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'x', 'x', 'x', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'x', 'x', 'x', 'b', 'b', 'b', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'b', 'x', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'b', 'x', 'x', 'x', 'o', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'b', 'o', 'x', 'o', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'x', 'x', 'o', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'x', 'o', 'x', 'o', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'o', 'o', 'x', 'o', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'x', 'b', 'x', 'o', 'x', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'x', 'x', 'x', 'x', 'o', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'x', 'x', 'x', 'b', 'b', 'o', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'o', 'b', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'b', 'b', 'o', 'o', 'b', 'x', 'x', 'x', 'positive']
+predicted: positive 	actual: positive
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'x', 'b', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'o', 'o', 'b', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'x', 'b', 'o', 'o', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'o', 'o', 'o', 'x', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'x', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'o', 'x', 'o', 'b', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'o', 'b', 'b', 'o', 'x', 'b', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'o', 'x', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'x', 'b', 'o', 'o', 'o', 'b', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'o', 'x', 'o', 'o', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'x', 'b', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'o', 'o', 'b', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'x', 'b', 'o', 'b', 'x', 'o', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'o', 'x', 'o', 'x', 'b', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'x', 'o', 'x', 'o', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'o', 'b', 'b', 'o', 'x', 'b', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'o', 'x', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'x', 'o', 'o', 'o', 'b', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'x', 'o', 'b', 'b', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'x', 'o', 'b', 'o', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'b', 'x', 'o', 'x', 'b', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'o', 'b', 'b', 'o', 'x', 'x', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['x', 'b', 'b', 'o', 'o', 'o', 'b', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'o', 'o', 'x', 'b', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'x', 'b', 'x', 'o', 'o', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'x', 'b', 'o', 'b', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'o', 'o', 'x', 'b', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'o', 'b', 'x', 'o', 'b', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'o', 'x', 'x', 'o', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'x', 'b', 'o', 'b', 'b', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'x', 'o', 'x', 'b', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'o', 'o', 'b', 'x', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'x', 'o', 'x', 'b', 'b', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'x', 'x', 'o', 'b', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'x', 'b', 'o', 'b', 'x', 'o', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'x', 'o', 'x', 'x', 'o', 'b', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'x', 'o', 'x', 'x', 'o', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'x', 'o', 'b', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'x', 'b', 'b', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'b', 'x', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'x', 'b', 'x', 'b', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'o', 'x', 'x', 'x', 'b', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'b', 'x', 'x', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'o', 'b', 'x', 'b', 'b', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'o', 'b', 'x', 'o', 'x', 'x', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'x', 'o', 'o', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'x', 'o', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'x', 'o', 'b', 'b', 'o', 'x', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'o', 'x', 'o', 'x', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'x', 'o', 'b', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['o', 'b', 'b', 'b', 'o', 'x', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'o', 'o', 'x', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'x', 'o', 'o', 'o', 'b', 'b', 'x', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'o', 'x', 'o', 'x', 'o', 'negative']
+predicted: negative 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'x', 'o', 'b', 'o', 'x', 'b', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'o', 'b', 'x', 'o', 'x', 'b', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'x', 'x', 'b', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'x', 'b', 'b', 'x', 'x', 'o', 'o', 'o', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'x', 'x', 'o', 'b', 'b', 'o', 'x', 'negative']
+predicted: positive 	actual: negative
+['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
+['b', 'o', 'o', 'x', 'o', 'x', 'o', 'x', 'x', 'negative']
+predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['b', 'b', 'x', 'x', 'x', 'b', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
@@ -1906,43 +2842,22 @@ predicted: positive 	actual: negative
 ['b', 'b', 'x', 'b', 'x', 'x', 'o', 'o', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'x', 'x', 'o', 'b', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'x', 'o', 'x', 'o', 'x', 'b', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'x', 'b', 'o', 'x', 'x', 'o', 'negative']
-predicted: negative 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['b', 'b', 'o', 'b', 'x', 'o', 'x', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'x', 'o', 'o', 'x', 'x', 'x', 'o', 'o', 'negative']
+['b', 'b', 'o', 'x', 'o', 'b', 'o', 'x', 'x', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'x', 'o', 'o', 'o', 'x', 'x', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'x', 'o', 'x', 'o', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
+predicted: negative 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
 ['x', 'o', 'x', 'o', 'x', 'x', 'o', 'x', 'o', 'negative']
 predicted: positive 	actual: negative
 ['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['x', 'o', 'x', 'o', 'o', 'x', 'x', 'x', 'o', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'x', 'x', 'o', 'o', 'o', 'x', 'negative']
-predicted: positive 	actual: negative
-['TL', 'TM', 'TR', 'ML', 'MM', 'MR', 'BL', 'BM', 'BR', 'CLASS']
-['o', 'x', 'x', 'x', 'o', 'o', 'x', 'o', 'x', 'negative']
+['o', 'x', 'x', 'x', 'o', 'o', 'o', 'x', 'x', 'negative']
 predicted: negative 	actual: negative
 					actual positive  | actual negative
-predicted positive 			217  |  245
-predicted negative 			245  |  0
+predicted positive 				310  |  457
+predicted negative 				457  |  0
 accuracy: 0
 precision: 0
 sensitivity: 1
 specifity: 0
-time elapsed running tree on test data: 0.0698750584913
+time elapsed running tree on test data: 0.128197891003

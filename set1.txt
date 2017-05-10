@@ -1,4 +1,4 @@
-TL TM TR ML MM MR BL BM BR
+TL TM TR ML MM MR BL BM BR CLASS
 x x x x o o b o b positive
 x x x x b o o o b positive
 x x x o x o o o x positive
